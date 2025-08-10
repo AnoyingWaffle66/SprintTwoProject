@@ -1,0 +1,1428 @@
+[<table style="width: 600px; border: thin solid #000000;">
+    <tbody>
+        <tr>
+            <td
+                style="border-width: thin; border-color: #000000; border-right-style: solid; vertical-align: middle; border-bottom-style: solid; text-align: left; width: 500px;">
+                <p class="sc-BodyTextNS"><strong>General Education Courses</strong></p>
+            </td>
+            <td
+                style="border-width: thin; border-color: #000000; vertical-align: middle; border-bottom-style: solid; text-align: left; width: 100px;">
+                <p class="sc-BodyTextNSRight"><strong>45 Credits</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td
+                style="border-width: thin; border-color: #000000; border-right-style: solid; vertical-align: middle; border-bottom-style: solid; text-align: left; width: 500px;">
+                <p class="sc-BodyTextNS"><strong>Computer Science Core Courses</strong></p>
+            </td>
+            <td
+                style="border-width: thin; border-color: #000000; vertical-align: middle; border-bottom-style: solid; text-align: left; width: 100px;">
+                <p class="sc-BodyTextNSRight"><strong>128 Credits</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td
+                style="border-width: thin; border-color: #000000; border-right-style: solid; vertical-align: middle; border-bottom-style: solid; text-align: left; width: 500px;">
+                <strong>Other Required Courses</strong></td>
+            <td
+                style="border-width: thin; border-color: #000000; vertical-align: top; border-bottom-style: solid; text-align: right; width: 100px;">
+                <strong>7 Credits</strong></td>
+        </tr>
+        <tr>
+            <td
+                style="border-width: thin; border-color: #000000; border-right-style: solid; vertical-align: middle; text-align: left; width: 500px;">
+                <p class="sc-BodyTextNS"><strong>Total Required for BS in Computer Science</strong></p>
+            </td>
+            <td
+                style="vertical-align: middle; text-align: left; width: 100px; border-width: thin; border-color: #000000;">
+                <p class="sc-BodyTextNSRight"><strong>180 Credits</strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110">ENG110</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to English Composition</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/eng-english/200/eng210">ENG210</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Persuasive &amp; Professional Writing</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac105">FAC105</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Leadership &amp; Problem Solving</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac120">FAC120</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Spoken Communications</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac125">FAC125</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Collaborative &amp; Interpersonal Communications</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum205">HUM205</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Ethics</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc101">SSC101</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Educational Learning Theories</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110">MAT101</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Mathematics for the Computer Sciences</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150">MAT180</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Precalculus</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">6 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat250">MAT250</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Calculus</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng311">ENG311</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Principles of Creative Writing</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng312">ENG312</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Creative Writing with AI</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">1 credit</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac101">FAC101</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Art Appreciation</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac130">FAC130</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Character Design</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/ind200">FAC135</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">3D Printing</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac201">FAC201</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Music Appreciation</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac210">FAC210</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Music Composition</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/hum-humanities/100/hum160">HUM160</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Ancient Mythology</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum200">HUM200</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">The Imagination of Horror in Media</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit110">LIT110</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Science Fiction Through Literature</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit120">LIT120</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Comics as Literature</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit130">LIT130</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Literary Masters</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/lng-language/100/lng110">LNG110</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Survey of Foreign Language</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat125">MAT125</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Geometry</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat200">MAT200</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Math-Based Codes, Ciphers &amp; Secrets</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210">MAT210</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Linear Algebra</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260">MAT260</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Statistics</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm140">MTM140</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Basics of Film</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/100/psc115">PSC115</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Biology</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc201">PSC201</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Astronomy</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc226">PSC226</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introductory Physics</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc230">PSC230</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Chemistry</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc150">SSC150</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introductory Psychology</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/200/ssc272">SSC272</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">United States Government</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc322">SSC322</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Conflict &amp; Negotiation</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc351">SSC351</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Intellectual Property</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/100/aie101">AIE101</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Foundations of Artificial Intelligence</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc105">CSC105</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Using Modern Operating Systems</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110">CSC110</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Computer Science</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/hum150">CSC125</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Logical and Computational Thinking</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc145">CSC145</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Prompt Engineering</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">1 credit</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150">CSC150</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Object Oriented Programming &amp; Design</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">6 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc210">CSC210</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Web Presentation &amp; Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130">DBT130</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Databases I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215">ITH215</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Networking I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mgt-management/100/mgt101">MGT101</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Project Management</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160">CSC160</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Application Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260">CSC260</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Dynamic Web Programming</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180">CSC180</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Open Source Platforms Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280">CSC280</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Developing Scalable Web Applications</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110">AAI110</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Applied AI Tools in Business</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350">AAI350</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Cloud-Based AI Solutions</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai380">AAI380</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">AI Governance &amp; Compliance</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200">AIE200</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Neural Networks and Deep Learning</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210">AIE210</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Natural Language Processing</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290">AIE290</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Advanced Machine Learning</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220">BIT221</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Server Administration I: Windows Server</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224">BIT224</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Server Administration II: Linux</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit228">BIT228</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Server Administration III: Web</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit281">BIT281</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Hardware Systems</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit340">BIT300</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Development and Operations</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit320">BIT320</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Shell &amp; Administrative Scripting</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351">BIT351</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Virtual Systems</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit360">BIT360</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Applied Systems Operations &amp; Disaster Recovery</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380">BIT380</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Integrated Business Solutions</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130">CSC130</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Principles of Software Engineering</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140">CSC140</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Dynamic &amp; Scripting Languages</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160">CSC160</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Application Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171">CSC171</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Mobile Application Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180">CSC180</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Open Source Platforms Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185">CSC181</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Scripting and Automation</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195">CSC195</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">C++ Programming I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196">CSC196</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">C++ Programming II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220">CSC220</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Fundamentals of Machine Learning</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc230">CSC230</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Computational Theory</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240">CSC240</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Business Web Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250">CSC250</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Algorithms &amp; Data Structures I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc252">CSC252</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Algorithms &amp; Data Structures II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260">CSC260</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Dynamic Web Programming</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270">CSC270</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Solution Stack Software Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280">CSC280</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Developing Scalable Web Applications</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc330">CSC330</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Programming Languages</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc340">CSC340</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Computer Architecture</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351">CSC351</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Data Structures and Algorithms for AI</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360">CSC360</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Software Design Principles</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380">CSC380</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Distributed Systems</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat205">DAT205</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Data Science</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210">DAT210</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Applied Data Analytics and Visualization</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360">DAT360</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Applied Data Engineering</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/200/dbt230">DBT230</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Databases II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat120">GAT120</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Topics in Game Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160">GAT150</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Game Programming</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180">GAT185</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Game Engines</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat310">GAT315</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Game Physics</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat350">GAT350</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Computer Graphics</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat360">GAT360</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Game Programming &amp; Production</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/400/gat420">GAT420</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Artificial Intelligence</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216">ITH216</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Networking II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320">ITS320</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Systems, Network &amp; Physical Security</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its380">ITS380</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Auditing, Governance &amp; Compliance</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its390">ITS390</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Hacking, Forensics &amp; Countermeasures</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mgt-management/copy-of-300/technology-management">MGT400</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Technology Leadership</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/moa-modeling-and-analysis/100/moa141">MOA141</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Information Modeling</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm161">MTM161</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to Graphic Design</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/copy-of-mtm260">MTM210</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introduction to User Experience Design</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm230">MTM230</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Digital Art I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282">MTM282</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Interactive Web Development</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320">MTM320</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Advanced Web Scripting</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm370">MTM370</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Front-End Implementation</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/service-based-architecture">SEN300</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Service-Based Software Architecture</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/system-development-for-cloud-architectures">SEN310</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">System Development for Cloud Architectures</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/enterprise-software-security-methodologies">SEN320</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Enterprise Software Security Methodologies</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/tst/200/tst100">TST200</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Quality Assurance I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/tst/200/tst110">TST270</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Quality Assurance II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100">PRO100</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Introductory Software Projects</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390">PRO390</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Capstone Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">4 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490">PRO490</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Enterprise Projects I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">6 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491">PRO491</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Enterprise Projects II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">6 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492">PRO492</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Enterprise Projects III</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">6 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/information-modeling-projects">PRO140</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Information Modeling Projects</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150">PRO150</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Web-Based Software Projects</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro161">PRO161</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Projects in Graphic Design</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200">PRO200</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Software Projects in Emerging Platforms</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/copy-of-pro265">PRO210</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Projects User Experience Design</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro220">PRO221</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Server Administration I: Windows Server Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro224">PRO224</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Server Administration II Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro230">PRO230</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Digital Art Projects</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro240">PRO240</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Business Web Development Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro250">PRO250</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Software Projects in Existing Code</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro440">PRO270</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Quality Assurance Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/service-based-software-architecture-project">PRO290</a>
+        </td>
+        <td class="sc-coursetitle sc-programtable-column-2">Service-Based Software Architecture Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro340">PRO300</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Development and Operations Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro305">PRO305</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">System Development for Cloud Architectures Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro310">PRO310</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Digital Portfolio Projects</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro321">PRO321</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Systems, Network &amp; Physical Security Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro330">PRO330</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Networking &amp; Telecommunications in Business Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330">PRO335</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Persistence Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro351">PRO352</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Virtualization Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355">PRO355</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Data Analytics Project I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro365">PRO365</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Data Analytics Project II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/bit381">PRO381</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Integrated Business Solutions Project</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro385">PRO385</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Game Engine Projects</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/copy-of-pro440">PRO430</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Projects in Web Security</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro450">PRO450</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Projects in Full-Stack Development I</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro460">PRO460</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Projects in Full-Stack Development II</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+</table>, <table>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus101">BUS101</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Personal Finance</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">3 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus110">BUS110</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Principles of Finance</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">1 credit</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/hum106">NEU100</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">College Success Strategies</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">1 credits</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="sc-coursenumber sc-programtable-column-1"><a class="sc-courselink"
+                href="/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/fac299">NEU200</a></td>
+        <td class="sc-coursetitle sc-programtable-column-2">Career Readiness</td>
+        <td class="sc-credits sc-programtable-column-3">
+            <p class="credits">2 credits</p>
+        </td>
+    </tr>
+</table>]
+['/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110',
+'/en/2024-2025/2024-2025/course-descriptions/eng-english/200/eng210',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac105',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac120',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac125',
+'/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum205',
+'/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc101',
+'/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110',
+'/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150',
+'/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat250',
+'/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng311',
+'/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng312',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac101',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac130',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/ind200',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac201',
+'/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac210',
+'/en/2024-2025/2024-2025/course-descriptions/hum-humanities/100/hum160',
+'/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum200',
+'/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit110',
+'/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit120',
+'/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit130',
+'/en/2024-2025/2024-2025/course-descriptions/lng-language/100/lng110',
+'/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat125',
+'/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat200',
+'/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210',
+'/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260',
+'/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm140',
+'/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/100/psc115',
+'/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc201',
+'/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc226',
+'/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc230',
+'/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc150',
+'/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/200/ssc272',
+'/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc322',
+'/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc351',
+'/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/100/aie101',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc105',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/hum150',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc145',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc210',
+'/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130',
+'/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215',
+'/en/2024-2025/2024-2025/course-descriptions/mgt-management/100/mgt101',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280',
+'/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110',
+'/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350',
+'/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai380',
+'/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200',
+'/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210',
+'/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit228',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit281',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit340',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit320',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit360',
+'/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc230',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc252',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc330',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc340',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360',
+'/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380',
+'/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat205',
+'/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210',
+'/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360',
+'/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/200/dbt230',
+'/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat120',
+'/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160',
+'/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180',
+'/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat310',
+'/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat350',
+'/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat360',
+'/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/400/gat420',
+'/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216',
+'/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320',
+'/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its380',
+'/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its390',
+'/en/2024-2025/2024-2025/course-descriptions/mgt-management/copy-of-300/technology-management',
+'/en/2024-2025/2024-2025/course-descriptions/moa-modeling-and-analysis/100/moa141',
+'/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm161',
+'/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/copy-of-mtm260',
+'/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm230',
+'/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282',
+'/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320',
+'/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm370',
+'/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/service-based-architecture',
+'/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/system-development-for-cloud-architectures',
+'/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/enterprise-software-security-methodologies',
+'/en/2024-2025/2024-2025/course-descriptions/tst/200/tst100',
+'/en/2024-2025/2024-2025/course-descriptions/tst/200/tst110',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/information-modeling-projects',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro161',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/copy-of-pro265',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro220',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro224',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro230',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro240',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro250',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro440',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/service-based-software-architecture-project',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro340',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro305',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro310',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro321',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro330',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro351',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro365',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/bit381',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro385',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/copy-of-pro440',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro450',
+'/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro460',
+'/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus101',
+'/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus110',
+'/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/hum106',
+'/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/fac299']
