@@ -14,7 +14,7 @@ ALL_CATALOG_THINGIES = [
 
 CS_CATALOG_URL = "https://neumont.smartcatalogiq.com/en/2024-2025/2024-2025/undergraduate-programs/undergraduate-program-overview/"
 
-course_hrefs_by_code: set[str] = set()
+course_hrefs: set[str] = set()
 for route in ALL_CATALOG_THINGIES:
     request = req.get(f"{CS_CATALOG_URL}{route}")
     html = request.text
@@ -23,18 +23,20 @@ for route in ALL_CATALOG_THINGIES:
 
     tables: ResultSet[Tag] = soup.find_all("table")
 
-    print(tables)
+    # print(tables)
 
     for table in tables:
         thingy: ResultSet[Tag] = table.find_all(class_="sc-coursenumber")
         if not thingy:
             continue
         for thing in thingy:
-            course_hrefs_by_code.add(thing.find(class_="sc-courselink")['href'])
+            course_hrefs.add(thing.find(class_="sc-courselink")['href'])
+    print(len(course_hrefs))
 
-course_hrefs_by_code = sorted(list(course_hrefs_by_code))
+course_hrefs = sorted(list(course_hrefs))
 
-soupy = bs(req.get(f"https://neumont.smartcatalogiq.com{course_hrefs_by_code[0]}").text, "html.parser")
+soupy = bs(req.get(f"https://neumont.smartcatalogiq.com{course_hrefs[0]}").text, "html.parser")
 # print(soupy.prettify())
 
-print(course_hrefs_by_code)
+for course_href in course_hrefs:
+    print(course_href)
