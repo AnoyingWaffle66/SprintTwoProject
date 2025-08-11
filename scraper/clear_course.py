@@ -16,18 +16,24 @@ class ClearCourse:
     def add_requisite(self, course_to_add: ClearCourse, _which_list = "pre") -> None:
         self._requisite_lists[_which_list].add(course_to_add)
 
+    def __hash__(self):
+        return hash(self.href)
+
+    def __iter__(self):
+        yield "href", self.href
+        yield "course_name", self.course_name
+        # Convert requisite sets into lists of hrefs for serialization
+        yield "requisites", {
+            k: [c.href for c in v] for k, v in self._requisite_lists.items()
+        }
+
+
     def __str__(self) -> str:
         this_string = str()
-        this_string += "Co requisite classes:\n"
-        for co_req in self._requisite_lists["co"]:
-            this_string += f"\t{co_req.course_name}\n"
-
-        this_string += "Pre requisite classes:\n"
-        for pre_req in self._requisite_lists["pre"]:
-            this_string += f"\t{pre_req.course_name}\n"
-
-        this_string += "Pre requisite for classes:\n"
-        for pre_req_for in self._requisite_lists["pre-for"]:
-            this_string += f"\t{pre_req_for.course_name}\n"
-        
+        for key, value in self._requisite_lists.items():
+            this_string += f"{key}:\n"
+            for v in sorted(list(value), key=lambda c: c.href):
+                this_string += f"\tcourse name - {v.course_name}\n"
+                this_string += f"\thref - {v.href}\n"
+            this_string += "\n"
         return this_string
