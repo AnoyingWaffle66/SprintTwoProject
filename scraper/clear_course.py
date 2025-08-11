@@ -2,6 +2,7 @@ from __future__ import annotations
 
 class ClearCourse:
     def __init__(self, href: str, course_name: str = ""):
+        self.href_scraped = False
         self.href: str = href
         self.course_name: str = course_name
         self.co_reqs: set[ClearCourse] = set()
@@ -12,7 +13,10 @@ class ClearCourse:
             "pre-for" : self.pre_reqs_for,
             "co"      : self.co_reqs
         }
-    
+
+    def set_scraped(self):
+        self.href_scraped = True
+
     def add_requisite(self, course_to_add: ClearCourse, _which_list = "pre") -> None:
         self._requisite_lists[_which_list].add(course_to_add)
 

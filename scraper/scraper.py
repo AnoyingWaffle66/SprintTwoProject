@@ -5,20 +5,22 @@ from bs4 import Tag, ResultSet
 
 
 ALL_CATALOG_THINGIES = [
-    "bachelor-of-science-in-computer-science/",
-    "applied-artificial-intelligence-and-data-engineering/",
-    "artificial-intelligence-engineering/",
-    "information-systems-and-cybersecurity/",
-    # "bachelor-of-science-in-software-and-game-development/",
-    # "software-engineering/",
-    # "associates-of-science-in-software-development/"
+    "/bachelor-of-science-in-computer-science/",
+    "/applied-artificial-intelligence-and-data-engineering/",
+    "/artificial-intelligence-engineering/",
+    "/information-systems-and-cybersecurity/",
+    # "/bachelor-of-science-in-software-and-game-development/",
+    # "/software-engineering/",
+    # "/associates-of-science-in-software-development/"
 ]
 
-CS_CATALOG_URL = "https://neumont.smartcatalogiq.com/en/2024-2025/2024-2025/undergraduate-programs/undergraduate-program-overview/"
+CS_CATALOG_BASE_URL = "https://neumont.smartcatalogiq.com/en/2024-2025/2024-2025/undergraduate-programs/undergraduate-program-overview"
+
+INDIVIDUAL_COURSE_BASE_URL = "https://neumont.smartcatalogiq.com"
 
 course_hrefs: set[str] = set()
 for route in ALL_CATALOG_THINGIES:
-    request = req.get(f"{CS_CATALOG_URL}{route}")
+    request = req.get(f"{CS_CATALOG_BASE_URL}{route}")
     html = request.text
 
     soup = bs(html, 'html.parser')
@@ -41,5 +43,11 @@ course_hrefs = sorted(list(course_hrefs))
 
 courses = [ClearCourse(course) for course in course_hrefs]
 
-for course in courses:
-    print(course)
+for course in courses[0:1]:
+    request = req.get(f"{INDIVIDUAL_COURSE_BASE_URL}{course.href}")
+    course.set_scraped()
+    soup = bs(request.text, 'html.parser')
+    print(soup.prettify())
+
+# for course in courses:
+#     print(course)
