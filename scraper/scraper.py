@@ -1,7 +1,8 @@
 from clear_course import ClearCourse
-import requests as req
 from bs4 import BeautifulSoup as bs
 from bs4 import Tag, ResultSet
+import collections as col
+import requests as req
 
 #region constants
 PARSER = 'html.parser'
@@ -30,8 +31,7 @@ for route in ALL_CATALOG_ROUTES:
     
     for course_code in course_codes:
         course_routes.add(course_code['href'])
-    
-    print(len(course_routes))
+
 
 course_routes = sorted(list(course_routes))
 
@@ -57,10 +57,16 @@ for course in courses:
     course.set_scraped()
     course_html = request.text
     soup = bs(course_html, PARSER)
+    course.course_name = soup.find(id="main").find('h1').contents[2].strip()
     scrape_requisites(soup, "sc_prereqs", "pre")
     scrape_requisites(soup, "sc_coreqs", "co")
 
-# for course in courses[0:10]:
-#     print(course)
-# for course in course_routes:
-#     print(course)
+all_courses = col.defaultdict(dict)
+
+for course in courses:
+    all_courses[course.route] = dict(course)
+
+str_dict = str(dict(all_courses))
+
+print(str_dict.replace('\'', '\"'))
+
