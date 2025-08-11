@@ -1,15 +1,17 @@
+from clear_course import ClearCourse
+import requests as req
 from bs4 import BeautifulSoup as bs
 from bs4 import Tag, ResultSet
-import requests as req
+
 
 ALL_CATALOG_THINGIES = [
+    "bachelor-of-science-in-computer-science/",
     "applied-artificial-intelligence-and-data-engineering/",
     "artificial-intelligence-engineering/",
-    "bachelor-of-science-in-computer-science/",
     "information-systems-and-cybersecurity/",
-    "bachelor-of-science-in-software-and-game-development/",
-    "software-engineering/",
-    "associates-of-science-in-software-development/"
+    # "bachelor-of-science-in-software-and-game-development/",
+    # "software-engineering/",
+    # "associates-of-science-in-software-development/"
 ]
 
 CS_CATALOG_URL = "https://neumont.smartcatalogiq.com/en/2024-2025/2024-2025/undergraduate-programs/undergraduate-program-overview/"
@@ -35,8 +37,9 @@ for route in ALL_CATALOG_THINGIES:
 
 course_hrefs = sorted(list(course_hrefs))
 
-soupy = bs(req.get(f"https://neumont.smartcatalogiq.com{course_hrefs[0]}").text, "html.parser")
-# print(soupy.prettify())
+# soupy = bs(req.get(f"https://neumont.smartcatalogiq.com{course_hrefs[0]}").text, "html.parser")
 
-for course_href in course_hrefs:
-    print(course_href)
+courses = [ClearCourse(course) for course in course_hrefs]
+
+for course in courses:
+    print(course)

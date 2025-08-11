@@ -27,10 +27,11 @@ class ClearCourse:
 
     def __str__(self) -> str:
         this_string = str()
+        this_string += f"this href - {self.href}\n"
         for key, value in self._requisite_lists.items():
-            this_string += f"{key}:\n"
+            this_string += f"{key}: [\n"
             for v in sorted(list(value), key=lambda c: c.href):
                 this_string += f"\tcourse name - {v.course_name}\n"
                 this_string += f"\thref - {v.href}\n"
-            this_string += "\n"
+            this_string += "]\n\n"
         return this_string
