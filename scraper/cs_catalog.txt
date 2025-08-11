@@ -1,9 +1,6 @@
-88
-113
+145
+159
 165
-167
-167
-167
 167
 /en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110
 /en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350
