@@ -16,9 +16,6 @@ class ClearCourse:
     def add_requisite(self, course_to_add: ClearCourse, _which_list = "pre") -> None:
         self._requisite_lists[_which_list].add(course_to_add)
 
-    def __hash__(self):
-        return hash(self.href)
-
     def __iter__(self):
         yield "href", self.href
         yield "course_name", self.course_name
