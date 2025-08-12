@@ -4,11 +4,11 @@ from bs4 import Tag, ResultSet
 import collections as col
 import requests as req
 
+
 #region constants
 PARSER = 'html.parser'
 CS_CATALOG_BASE_URL = "https://neumont.smartcatalogiq.com/en/2024-2025/2024-2025/undergraduate-programs/undergraduate-program-overview"
 INDIVIDUAL_COURSE_BASE_URL = "https://neumont.smartcatalogiq.com"
-
 ALL_CATALOG_ROUTES = [ # minimum number to get all courses
     "/bachelor-of-science-in-computer-science/",
     "/applied-artificial-intelligence-and-data-engineering/",
@@ -19,6 +19,7 @@ ALL_CATALOG_ROUTES = [ # minimum number to get all courses
     # "/associates-of-science-in-software-development/"
 ]
 #endregion
+
 
 course_routes: set[str] = set()
 for route in ALL_CATALOG_ROUTES:
@@ -34,8 +35,8 @@ for route in ALL_CATALOG_ROUTES:
 
 
 course_routes = sorted(list(course_routes))
-
 courses = [ClearCourse(course) for course in course_routes]
+
 
 def find_requisite_instance(course: ClearCourse, course_href, which_req_type):
     global courses
@@ -51,20 +52,37 @@ def scrape_requisites(soup: bs, which_class: str, which_req_type: str):
     for route in requisite_routes:
         find_requisite_instance(course, route["href"], which_req_type)
 
-
 for course in courses:
+    print(f"Scraping: {course.route}")
     request = req.get(f"{INDIVIDUAL_COURSE_BASE_URL}{course.route}")
     course.set_scraped()
     course_html = request.text
     soup = bs(course_html, PARSER)
-    course.course_name = soup.find(id="main").find('h1').contents[2].strip()
+    course_main = soup.find(id="main").find('h1')
+    course.course_name = course_main.contents[2].strip()
+    course.course_code = course_main.contents[1].text.strip()
     scrape_requisites(soup, "sc_prereqs", "pre")
     scrape_requisites(soup, "sc_coreqs", "co")
 
+
 all_courses = col.defaultdict(dict)
 
-for course in courses:
-    all_courses[course.route] = dict(course)
+for idx, course in enumerate(courses):
+    all_courses[str(idx)] = dict(course)
+
+
+def calculate_derivation(all_courses: dict, course_internal_id: str):
+    course_route = all_courses[course_internal_id]["route"]
+    for course in all_courses.keys():
+        if course_route in all_courses[course]['requisites']['pre']:
+            all_courses[course_internal_id]["requisites"]["pre-for"].append(all_courses[course]["route"])
+
+def derive(courses: dict):
+    for course_internal_id in courses.keys():
+        calculate_derivation(courses, course_internal_id)
+
+derive(all_courses)
+
 
 str_dict = str(dict(all_courses))
 
