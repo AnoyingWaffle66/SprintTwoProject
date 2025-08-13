@@ -1,7 +1,7 @@
 services:
   front-end:
     container_name: front_end
-    build: ./frontend
+    build: ./frontend/clear-courses
     ports:
       - 3000:3000
     networks:
