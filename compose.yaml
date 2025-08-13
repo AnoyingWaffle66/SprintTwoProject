@@ -1,0 +1,24 @@
+services:
+  front-end:
+    container_name: front_end
+    build: ./frontend/clear-courses
+    ports:
+      - 3000:3000
+    networks:
+      - clear_courses
+    depends_on:
+      - mongodb
+    restart: on-failure
+
+  mongodb:
+    container_name: mongodb
+    image: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - ~/mongo/data:/data/db
+    networks:
+      - clear_courses
+
+networks:
+  clear_courses:
