@@ -1,0 +1,1750 @@
+{
+    "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110",
+        "course_name": "Applied AI Tools in Business",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/100/aie101"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350",
+        "course_name": "Cloud-Based AI Solutions",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai380": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai380",
+        "course_name": "AI Governance & Compliance",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/100/aie101": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/100/aie101",
+        "course_name": "Foundations of Artificial Intelligence",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200",
+        "course_name": "Neural Networks and Deep Learning",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie206": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie206",
+        "course_name": "Robotics",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+        "course_name": "Natural Language Processing",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250",
+        "course_name": "Data Modeling",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat205",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290",
+        "course_name": "Advanced Machine Learning",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300",
+        "course_name": "AI Development Frameworks and Integration",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150",
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie306": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie306",
+        "course_name": "Computer Vision",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie310": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie310",
+        "course_name": "Reinforcement Learning",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250",
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+        "course_name": "Server Administration I: Windows Server",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224",
+        "course_name": "Server Administration II: Linux",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit228": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit228",
+        "course_name": "Server Administration III: Web",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit281": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit281",
+        "course_name": "Hardware Systems",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit320": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit320",
+        "course_name": "Shell & Administrative Scripting",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit340": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit340",
+        "course_name": "Development and Operations",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351",
+        "course_name": "Virtual Systems",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit360": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit360",
+        "course_name": "Applied Systems Operations & Disaster Recovery",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit370": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit370",
+        "course_name": "System Analysis & Business Modeling",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bus-business/300/bus346"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380",
+        "course_name": "Integrated Business Solutions",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit390": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit390",
+        "course_name": "Emerging Technologies in Business",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390",
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492",
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490",
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus101": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus101",
+        "course_name": "Personal Finance",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus110",
+        "course_name": "Principles of Finance",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bus-business/200/bus202": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/200/bus202",
+        "course_name": "Studies in Economics",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/bus-business/300/bus346": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/300/bus346",
+        "course_name": "Entrepreneurship",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc105": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc105",
+        "course_name": "Using Modern Operating Systems",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110",
+        "course_name": "Introduction to Computer Science",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130",
+        "course_name": "Principles of Software Engineering",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140",
+        "course_name": "Dynamic & Scripting Languages",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc145": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc145",
+        "course_name": "Prompt Engineering",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+        "course_name": "Object Oriented Programming & Design",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+        "course_name": "Application Development",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171",
+        "course_name": "Mobile Application Development",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180",
+        "course_name": "Open Source Platforms Development",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+        "course_name": "Scripting and Automation",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+        "course_name": "C++ Programming I",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196",
+        "course_name": "C++ Programming II",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/hum150": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/hum150",
+        "course_name": "Logical and Computational Thinking",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc210": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc210",
+        "course_name": "Introduction to Web Presentation & Development",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+        "course_name": "Fundamentals of Machine Learning",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc230": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc230",
+        "course_name": "Computational Theory",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240",
+        "course_name": "Business Web Development",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250",
+        "course_name": "Algorithms & Data Structures I",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc252": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc252",
+        "course_name": "Algorithms & Data Structures II",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+        "course_name": "Dynamic Web Programming",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270",
+        "course_name": "Solution Stack Software Development",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+        "course_name": "Developing Scalable Web Applications",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc330": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc330",
+        "course_name": "Programming Languages",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc340": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc340",
+        "course_name": "Computer Architecture",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+        "course_name": "Data Structures and Algorithms for AI",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360",
+        "course_name": "Software Design Principles",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380",
+        "course_name": "Distributed Systems",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat205": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat205",
+        "course_name": "Introduction to Data Science",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210",
+        "course_name": "Applied Data Analytics and Visualization",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220",
+        "course_name": "Applied Python for Data Analysis",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat305": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat305",
+        "course_name": "Big Data Analytics",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat320": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat320",
+        "course_name": "Applied Machine Learning",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360",
+        "course_name": "Applied Data Engineering",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130",
+        "course_name": "Databases I",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/200/dbt230": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/200/dbt230",
+        "course_name": "Databases II",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110",
+        "course_name": "Introduction to English Composition",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/eng-english/200/eng210": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/200/eng210",
+        "course_name": "Persuasive & Professional Writing",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng311": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng311",
+        "course_name": "Principles of Creative Writing",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng312": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng312",
+        "course_name": "Creative Writing with AI",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac101": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac101",
+        "course_name": "Art Appreciation",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac105": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac105",
+        "course_name": "Leadership & Problem Solving",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac120": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac120",
+        "course_name": "Spoken Communications",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac125": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac125",
+        "course_name": "Collaborative & Interpersonal Communications",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac130": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac130",
+        "course_name": "Character Design",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/ind200": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/ind200",
+        "course_name": "3D Printing",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac201": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac201",
+        "course_name": "Music Appreciation",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac210": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac210",
+        "course_name": "Music Composition",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180",
+        "course_name": "Introduction to Game Engines",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat120": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat120",
+        "course_name": "Topics in Game Development",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+        "course_name": "Introduction to Game Programming",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat310": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat310",
+        "course_name": "Game Physics",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+                "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat350": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat350",
+        "course_name": "Computer Graphics",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat360": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat360",
+        "course_name": "Game Programming & Production",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/400/gat420": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/400/gat420",
+        "course_name": "Artificial Intelligence",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+                "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/100/hum160": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/100/hum160",
+        "course_name": "Ancient Mythology",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum200": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum200",
+        "course_name": "The Imagination of Horror in Media",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum205": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum205",
+        "course_name": "Ethics",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215",
+        "course_name": "Networking I",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216",
+        "course_name": "Networking II",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/300/ith317": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/300/ith317",
+        "course_name": "Networking III",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215",
+                "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320",
+        "course_name": "Systems, Network & Physical Security",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its340": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its340",
+        "course_name": "Network Perimeter Security",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/300/ith317"
+            ],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its380": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its380",
+        "course_name": "Auditing, Governance & Compliance",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its390": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its390",
+        "course_name": "Hacking, Forensics & Countermeasures",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit110",
+        "course_name": "Science Fiction Through Literature",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit120": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit120",
+        "course_name": "Comics as Literature",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit130": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit130",
+        "course_name": "Literary Masters",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/lng-language/100/lng110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lng-language/100/lng110",
+        "course_name": "Survey of Foreign Language",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110",
+        "course_name": "Mathematics for the Computer Sciences",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150",
+        "course_name": "Precalculus",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105",
+        "course_name": "College Algebra",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat125": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat125",
+        "course_name": "Geometry",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat150": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat150",
+        "course_name": "Trigonometry",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat200": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat200",
+        "course_name": "Math-Based Codes, Ciphers & Secrets",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105",
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210",
+        "course_name": "Linear Algebra",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150",
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat250": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat250",
+        "course_name": "Calculus",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260",
+        "course_name": "Statistics",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mgt-management/100/mgt101": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mgt-management/100/mgt101",
+        "course_name": "Introduction to Project Management",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mgt-management/copy-of-300/technology-management": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mgt-management/copy-of-300/technology-management",
+        "course_name": "Technology Leadership",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/moa-modeling-and-analysis/100/moa141": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/moa-modeling-and-analysis/100/moa141",
+        "course_name": "Introduction to Information Modeling",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm140": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm140",
+        "course_name": "Basics of Film",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm161": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm161",
+        "course_name": "Introduction to Graphic Design",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/copy-of-mtm260": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/copy-of-mtm260",
+        "course_name": "Introduction to User Experience Design",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm230": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm230",
+        "course_name": "Digital Art I",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+        "course_name": "Interactive Web Development",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320",
+        "course_name": "Advanced Web Scripting",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm370": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm370",
+        "course_name": "Front-End Implementation",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/fac299": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/fac299",
+        "course_name": "Career Readiness",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/hum106": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/hum106",
+        "course_name": "College Success Strategies",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/information-modeling-projects": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/information-modeling-projects",
+        "course_name": "Information Modeling Projects",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100",
+        "course_name": "Introductory Software Projects",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro101": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro101",
+        "course_name": "AI Projects I",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro110",
+        "course_name": "Applied AI Projects I (AI in Business)",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150",
+        "course_name": "Web-Based Software Projects",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro161": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro161",
+        "course_name": "Projects in Graphic Design",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm161"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/copy-of-pro265": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/copy-of-pro265",
+        "course_name": "Projects User Experience Design",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/copy-of-mtm260"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200",
+        "course_name": "Software Projects in Emerging Platforms",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150"
+            ],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro201": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro201",
+        "course_name": "AI Projects II",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300",
+                "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro220": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro220",
+        "course_name": "Server Administration I: Windows Server Project",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro224": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro224",
+        "course_name": "Server Administration II Project",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro230": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro230",
+        "course_name": "Digital Art Projects",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm230"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro240": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro240",
+        "course_name": "Business Web Development Project",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro250": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro250",
+        "course_name": "Software Projects in Existing Code",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200"
+            ],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro440": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro440",
+        "course_name": "Quality Assurance Project",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst100"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/service-based-software-architecture-project": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/service-based-software-architecture-project",
+        "course_name": "Service-Based Software Architecture Project",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/bit381": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/bit381",
+        "course_name": "Integrated Business Solutions Project",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330",
+        "course_name": "Persistence Project",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130"
+            ],
+            "pre-for": [],
+            "co": [
+                "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/200/dbt230"
+            ]
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro305": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro305",
+        "course_name": "System Development for Cloud Architectures Project",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro310": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro310",
+        "course_name": "Digital Portfolio Projects",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro321": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro321",
+        "course_name": "Systems, Network & Physical Security Project",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro322": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro322",
+        "course_name": "Applied AI Projects II (Machine Learning)",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat320"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro330": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro330",
+        "course_name": "Networking & Telecommunications in Business Project",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro340": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro340",
+        "course_name": "Development and Operations Project",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit340"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro351": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro351",
+        "course_name": "Virtualization Project",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355",
+        "course_name": "Data Analytics Project I",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330",
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro361": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro361",
+        "course_name": "Applied AI Projects III (Data Engineering)",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro365": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro365",
+        "course_name": "Data Analytics Project II",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro382": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro382",
+        "course_name": "AI Certification Projects",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro322"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro385": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro385",
+        "course_name": "Game Engine Projects",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390",
+        "course_name": "Capstone Project",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/copy-of-pro440": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/copy-of-pro440",
+        "course_name": "Projects in Web Security",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro450": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro450",
+        "course_name": "Projects in Full-Stack Development I",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro460": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro460",
+        "course_name": "Projects in Full-Stack Development II",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490",
+        "course_name": "Enterprise Projects I",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491",
+        "course_name": "Enterprise Projects II",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492",
+        "course_name": "Enterprise Projects III",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/100/psc115": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/100/psc115",
+        "course_name": "Introduction to Biology",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc201": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc201",
+        "course_name": "Astronomy",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc226": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc226",
+        "course_name": "Introductory Physics",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc230": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc230",
+        "course_name": "Introduction to Chemistry",
+        "requisites": {
+            "pre": [
+                "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105"
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/enterprise-software-security-methodologies": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/enterprise-software-security-methodologies",
+        "course_name": "Enterprise Software Security Methodologies",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/service-based-architecture": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/service-based-architecture",
+        "course_name": "Service-Based Software Architecture",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/system-development-for-cloud-architectures": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/system-development-for-cloud-architectures",
+        "course_name": "System Development for Cloud Architectures",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc101": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc101",
+        "course_name": "Educational Learning Theories",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc150": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc150",
+        "course_name": "Introductory Psychology",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/200/ssc272": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/200/ssc272",
+        "course_name": "United States Government",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc322": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc322",
+        "course_name": "Conflict & Negotiation",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc351": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc351",
+        "course_name": "Introduction to Intellectual Property",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst100": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst100",
+        "course_name": "Quality Assurance I",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst110",
+        "course_name": "Quality Assurance II",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    }
+}
