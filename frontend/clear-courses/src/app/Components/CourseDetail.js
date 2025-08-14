@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import coursesData from '../Data/courses.json';
+import coursesData from '../public/Data/courses.json';
 
 export default function CourseDetail({ course }) {
     const renderLinks = (list) => {
