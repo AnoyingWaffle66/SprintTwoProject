@@ -1,5 +1,5 @@
 import Link from "next/link";
-import coursesData from "./public/Data/courses.json";
+import coursesData from "./data/courses.json";
 
 export default function Home() {
   const courses = Object.values(coursesData);
