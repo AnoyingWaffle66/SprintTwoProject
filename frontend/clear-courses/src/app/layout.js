@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Clear Courses",
-  description: "NextJS powered app by Josh, Tristan, Hunter, and Ryan",
+    title: "Clear Courses",
+    description: "NextJS powered app by Josh, Tristan, Hunter, and Ryan",
 };
 
 export default function RootLayout({ children }) {

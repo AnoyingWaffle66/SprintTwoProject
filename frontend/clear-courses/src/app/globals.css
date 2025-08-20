@@ -19,19 +19,69 @@
     }
 }
 
-h1 {
-    font-size: 32px
+
+table {
+    width: 100%;
+    min-width: max-content
 }
+
+td {
+    display: table-cell;
+}
+
 
 body {
     background: var(--background);
     color: var(--foreground);
+    justify-content: center;
     font-family: Arial,Helvetica,sans-serif;
-    margin-left: 20%
+    display: flex
 }
 
-.course_table td {
-    border: 2px solid #455;
+.topbar {
+    margin: 2%
+}
+
+#title,
+#title h1 {
+    justify-content: left;
+    font-size: 32px
+}
+
+#dropperbar,
+#dropperbar select {
+    justify-content: right
+}
+
+select {
+    background-color: var(--background)
+}
+
+option {
+    background-color: #222
+}
+
+select option:active,
+select option:focus,
+select option:hover {
+    outline: none
+}
+
+.course_table {
+    justify-content: center;
+    overflow: scroll
+}
+
+    .course_table thead td {
+        border: 2px solid #789
+    }
+
+.course {
+    font-size: 26px;
+    width: 700px
+}
+
+.course_data td {
     text-align: center;
-    width: 40%;
+    border: 2px solid #455
 }
