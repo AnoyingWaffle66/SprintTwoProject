@@ -24,7 +24,21 @@ export default function Home() {
             </tr>
         ))
     }
-
+    function buildTHead() {
+        return (
+            <tr>
+                <td id="title"><h1>Courses</h1></td>
+                <td id="dropperbar">
+                    <select name="category" id="category" onChange={e => refresh_table(e.target.value)}>
+                        <option selected value="none">---</option>
+                        {codes.map(code => (
+                            <option value={code}>{code}</option>
+                        ))}
+                    </select>
+                </td>
+            </tr>
+            )
+    }
     async function refresh_table(term) {
         console.log(term)
         if (!document) return false
@@ -53,17 +67,7 @@ export default function Home() {
         <div class="main_content">
             <table class="course_table">
                 <thead>
-                    <tr>
-                        <td id="title"><h1>Courses</h1></td>
-                        <td id="dropperbar">
-                            <select name="category" id="category" onChange={e => refresh_table(e.target.value)} defaultValue="none">
-                                <option defaultValue value="none">---</option>
-                                {codes.map(code => (
-                                    <option value={code}>{code}</option>
-                                )) }
-                            </select>
-                        </td>
-                    </tr>
+                    {buildTHead() }
                 </thead>
                 <tbody class="course_data">
                     {generateRows()}
