@@ -6,7 +6,7 @@ export default function CourseDetail({ course }) {
         if (list === undefined || list.length == 0) {
             return (
                 <li key="list">
-                    <p>None</p>
+                    <p>No X-Requisite course found</p>
                 </li>
             );
         }
