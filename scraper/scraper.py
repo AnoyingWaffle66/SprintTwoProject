@@ -3,9 +3,12 @@ from bs4 import BeautifulSoup as bs
 from bs4 import Tag, ResultSet
 import collections as col
 import requests as req
+import json as js
 
 
 #region constants
+FILE_PATH = "courses.json"
+
 PARSER = 'html.parser'
 CS_CATALOG_BASE_URL = "https://neumont.smartcatalogiq.com/en/2024-2025/2024-2025/undergraduate-programs/undergraduate-program-overview"
 INDIVIDUAL_COURSE_BASE_URL = "https://neumont.smartcatalogiq.com"
@@ -57,10 +60,19 @@ for course in courses:
     request = req.get(f"{INDIVIDUAL_COURSE_BASE_URL}{course.route}")
     course.set_scraped()
     course_html = request.text
+
     soup = bs(course_html, PARSER)
     course_main = soup.find(id="main").find('h1')
     course.course_name = course_main.contents[2].strip()
     course.course_code = course_main.contents[1].text.strip()
+    
+    course_desc_tag = soup.find(class_="desc")
+    p_if_p = course_desc_tag.find("p")
+    if p_if_p:
+        course.description = p_if_p.get_text().strip().replace("\xa0", "").replace('\'', '\\')
+    else:
+        course.description = course_desc_tag.get_text().strip().replace("\xa0", "").replace('\'', '\\')
+
     scrape_requisites(soup, "sc_prereqs", "pre")
     scrape_requisites(soup, "sc_coreqs", "co")
 
@@ -70,12 +82,15 @@ all_courses = col.defaultdict(dict)
 for idx, course in enumerate(courses):
     all_courses[str(idx)] = dict(course)
 
+def course_dict(course: dict):
+    return {"route" : course["route"], "course_code" : course["course_code"], "course_name" : course["course_name"]}
 
 def calculate_derivation(all_courses: dict, course_internal_id: str):
     course_route = all_courses[course_internal_id]["route"]
     for course in all_courses.keys():
-        if course_route in all_courses[course]['requisites']['pre']:
-            all_courses[course_internal_id]["requisites"]["pre-for"].append(all_courses[course]["route"])
+        for course_pres in all_courses[course]['requisites']['pre']:
+            if course_route == course_pres["route"]:
+                all_courses[course_internal_id]["requisites"]["pre-for"].append(course_dict(all_courses[course]))
 
 def derive(courses: dict):
     for course_internal_id in courses.keys():
@@ -86,5 +101,8 @@ derive(all_courses)
 
 str_dict = str(dict(all_courses))
 
-print(str_dict.replace('\'', '\"'))
+# with open(FILE_PATH, "w") as file:
+#     js.dumps(str_dict, file, indent=4)
+
+print(str_dict.replace('\'', '\"').replace('\\', '\''))
 
