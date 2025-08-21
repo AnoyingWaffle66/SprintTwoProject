@@ -15,7 +15,9 @@
 @media (prefers-color-scheme:dark) {
     :root {
         --background: #0a0a0a;
-        --foreground: #e0b107
+        --foreground: #e0b107;
+        --subtitle: #e0aa2b;
+        --footnote: #c29904
     }
 }
 
@@ -35,6 +37,11 @@ body {
     font-family: Arial,Helvetica,sans-serif;
     display: flex;
     justify-content: center
+}
+
+.section {
+    font-size: 22px;
+    color: var(--subtitle)
 }
 
 .topbar {
@@ -83,4 +90,11 @@ select option:hover {
 .course_data td {
     text-align: center;
     border: 2px solid #455
+}
+a {
+    color: var(--footnote)
+}
+a:hover {
+    text-decoration: underline;
+    color: #fe4
 }
