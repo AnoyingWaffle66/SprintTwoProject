@@ -13,23 +13,26 @@ export default function CourseDetail({ course }) {
         return list.map(courseObj => {
             const courseCode = courseObj.course_code;
             const courseName = courseObj.course_name;
+            const slug = courseCode.toLowerCase();
             return (
                 <li key={courseObj}>
-                    <Link href={`/${courseCode}`}>{courseCode} - {courseName}</Link>
+                    <Link href={`/${slug}`}>{courseCode} - {courseName}</Link>
                 </li>
             );
         });
     };
 
     return (
-        <div>
+        <div class="main_content">
             <h1 id="title">{course.course_name}</h1>
+            <h2 class="section">Description</h2>
+            <p class="course_deet"><em id="desc">{course.course_description}</em></p>
             <h2 class="section">Pre-requisites</h2>
-            <ul>{renderLinks(course.requisites.pre)}</ul>
+            <ul class="course_deet">{renderLinks(course.requisites.pre)}</ul>
             <h2 class="section">Pre-for</h2>
-            <ul>{renderLinks(course.requisites['pre-for'])}</ul>
+            <ul class="course_deet">{renderLinks(course.requisites['pre-for'])}</ul>
             <h2 class="section">Co-requisites</h2>
-            <ul>{renderLinks(course.requisites.co)}</ul>
+            <ul class="course_deet">{renderLinks(course.requisites.co)}</ul>
             <Link href="/">⇦ Back to Courses</Link>
         </div>
     );
