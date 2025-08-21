@@ -6,6 +6,7 @@ class ClearCourse:
         self.route: str = route
         self.course_name: str = course_name
         self.course_code: str = ""
+        self.description: str = ""
         self.co_reqs: set[ClearCourse] = set()
         self.pre_reqs: set[ClearCourse] = set()
         self.pre_reqs_for: set[ClearCourse] = set()
@@ -29,8 +30,9 @@ class ClearCourse:
         yield "course_name", self.course_name
         yield "course_code", self.course_code
         # Convert requisite sets into lists of hrefs for serialization
+        yield "course_description", self.description
         yield "requisites", {
-            k: [c.route for c in v] for k, v in self._requisite_lists.items()
+            k: [{"route" :c.route, "course_code" : c.course_code, "course_name" : c.course_name} for c in v] for k, v in self._requisite_lists.items()
         }
     
     def __str__(self) -> str:
