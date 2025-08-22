@@ -1,0 +1,3337 @@
+{
+    "0": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110",
+        "course_name": "Applied AI Tools in Business",
+        "course_code": "AAI110",
+        "course_description": "This course provides an in-depth exploration of the practical applications of artificial intelligence (AI) tools in a business context. Students will learn how to leverage AI technologies to enhance decision-making, improve operational efficiency, and drive innovation within organizations. The course covers a variety of AI tools and platforms, offering hands-on experience in their implementation and integration. By the end of the course, students will understand how to apply AI solutions to real-world business problems and gain a competitive edge in the marketplace.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/100/aie101",
+                    "course_code": "AIE101",
+                    "course_name": "Foundations of Artificial Intelligence"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350",
+                    "course_code": "AAI350",
+                    "course_name": "Cloud-Based AI Solutions"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai380",
+                    "course_code": "AAI380",
+                    "course_name": "AI Governance & Compliance"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro110",
+                    "course_code": "PRO110",
+                    "course_name": "Applied AI Projects I (AI in Business)"
+                }
+            ],
+            "co": []
+        }
+    },
+    "1": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350",
+        "course_name": "Cloud-Based AI Solutions",
+        "course_code": "AAI350",
+        "course_description": "This course introduces students to the fundamentals of using cloud technologies forartificial intelligence (AI) solutions. Students will learn about various cloud platforms thatoffer AI services and gain a basic understanding of how these platforms can be used forAI applications. Topics covered include an overview of machine learning models, datastorage and processing in the cloud, and the basics of scaling AI solutions of the course, students will understand how cloud-based AI services work and how they can be applied to solve problems and drive innovation.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110",
+                    "course_code": "AAI110",
+                    "course_name": "Applied AI Tools in Business"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360",
+                    "course_code": "DAT360",
+                    "course_name": "Applied Data Engineering"
+                }
+            ],
+            "co": []
+        }
+    },
+    "2": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai380",
+        "course_name": "AI Governance & Compliance",
+        "course_code": "AAI380",
+        "course_description": "This course focuses on the role of artificial intelligence (AI) in enhancing governance and compliance within various industries. Students will explore how AI technologies can be leveraged to meet regulatory requirements, ensure compliance, and streamline governance processes. The course covers practical applications of AI in compliance work, including monitoring, reporting, and risk management. Additionally, students will study how AI is being regulated or discussed by governments, understanding the concerns and motivations behind governmental regulation or lack thereof. By the end of the course, students will understand how to effectively utilize AI to support governance and compliance efforts in different sectors.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110",
+                    "course_code": "AAI110",
+                    "course_name": "Applied AI Tools in Business"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "3": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/100/aie101",
+        "course_name": "Foundations of Artificial Intelligence",
+        "course_code": "AIE101",
+        "course_description": "This course introduces the fundamental concepts and techniques of artificial intelligence (AI) answering the following questions: What is AI, why is AI used, and how is AI used? Students will delve into the history and evolution of AI, learning about key topics and concepts within the field. The course will provide a high-level overview of AI tools and frameworks, along with insights into AI''s impact on productivity, job outlook, and personal growth. Additionally, students will develop essential programming skills to demonstrate AI comprehension through coding, gaining a solid understanding of AI''s potential and limitations, ethical considerations, current trends, and modern thought leaders in the field, enhancing their learning and application of AI in academia.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110",
+                    "course_code": "AAI110",
+                    "course_name": "Applied AI Tools in Business"
+                }
+            ],
+            "co": []
+        }
+    },
+    "4": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200",
+        "course_name": "Neural Networks and Deep Learning",
+        "course_code": "AIE200",
+        "course_description": "This course delves into the architectures and principles behind neural networks and deep learning. Students will study the fundamentals of neural network design, including layers, activation functions, and backpropagation. The curriculum covers various types of neural networks, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), as well as their applications in image and speech recognition, natural language processing, and more.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260",
+                    "course_code": "MAT260",
+                    "course_name": "Statistics"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                    "course_code": "CSC181",
+                    "course_name": "Scripting and Automation"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250",
+                    "course_code": "AIE250",
+                    "course_name": "Data Modeling"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro101",
+                    "course_code": "PRO101",
+                    "course_name": "AI Projects I"
+                }
+            ],
+            "co": []
+        }
+    },
+    "5": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie206",
+        "course_name": "Robotics",
+        "course_code": "AIE206",
+        "course_description": "This course provides a comprehensive introduction to robotics and autonomous systems, covering both theoretical and practical aspects. Students will learn about the fundamental principles of robot design, including kinematics, dynamics, and control systems. The curriculum explores various types of sensors and actuators, and techniques for perception, navigation, and path planning. The course also delves into the algorithms and software frameworks used for robot programming and simulation.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "6": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+        "course_name": "Natural Language Processing",
+        "course_code": "AIE210",
+        "course_description": "Natural Language Processing (NLP) explores the interaction between computers and human language. This course covers the essential techniques for processing and analyzing text data, including tokenization, part-of-speech tagging, named entity recognition, and sentiment analysis. Students will also learn about advanced topics like machine translation, language models, and conversational AI.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220",
+                    "course_code": "DAT220",
+                    "course_name": "Applied Python for Data Analysis"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                    "course_code": "CSC181",
+                    "course_name": "Scripting and Automation"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300",
+                    "course_code": "AIE300",
+                    "course_name": "AI Development Frameworks and Integration"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro101",
+                    "course_code": "PRO101",
+                    "course_name": "AI Projects I"
+                }
+            ],
+            "co": []
+        }
+    },
+    "7": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250",
+        "course_name": "Data Modeling",
+        "course_code": "AIE250",
+        "course_description": "In this course, students will learn how to create and use data models to represent and analyze real-world phenomena. The curriculum covers various data modeling techniques, including relational, dimensional, and entity-relationship models. The course emphasizes practical skills for designing and implementing data models that support efficient data storage, retrieval, and analysis in AI applications.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat205",
+                    "course_code": "DAT205",
+                    "course_name": "Introduction to Data Science"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+                    "course_code": "CSC220",
+                    "course_name": "Fundamentals of Machine Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200",
+                    "course_code": "AIE200",
+                    "course_name": "Neural Networks and Deep Learning"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie310",
+                    "course_code": "AIE310",
+                    "course_name": "Reinforcement Learning"
+                }
+            ],
+            "co": []
+        }
+    },
+    "8": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290",
+        "course_name": "Advanced Machine Learning",
+        "course_code": "AIE290",
+        "course_description": "This advanced course builds on foundational machine learning concepts to cover more sophisticated algorithms and techniques. Topics include ensemble methods, support vector machines, clustering, dimensionality reduction, and Bayesian networks. Students will also explore recent advancements in machine learning, such as adversarial learning and transfer learning.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210",
+                    "course_code": "MAT210",
+                    "course_name": "Linear Algebra"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+                    "course_code": "CSC220",
+                    "course_name": "Fundamentals of Machine Learning"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie310",
+                    "course_code": "AIE310",
+                    "course_name": "Reinforcement Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro201",
+                    "course_code": "PRO201",
+                    "course_name": "AI Projects II"
+                }
+            ],
+            "co": []
+        }
+    },
+    "9": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300",
+        "course_name": "AI Development Frameworks and Integration",
+        "course_code": "AIE300",
+        "course_description": "This course focuses on the practical aspects of developing and integrating AI systems using popular frameworks and tools. Students will learn how to integrate the frameworks and tools they have learned to this point, along with their respective libraries and ecosystems, into new and existing application systems. The course covers best practices for building, testing, and deploying AI models in various environments.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                    "course_code": "MTM282",
+                    "course_name": "Interactive Web Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150",
+                    "course_code": "PRO150",
+                    "course_name": "Web-Based Software Projects"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+                    "course_code": "AIE210",
+                    "course_name": "Natural Language Processing"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro201",
+                    "course_code": "PRO201",
+                    "course_name": "AI Projects II"
+                }
+            ],
+            "co": []
+        }
+    },
+    "10": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie306",
+        "course_name": "Computer Vision",
+        "course_code": "AIE306",
+        "course_description": "Computer Vision focuses on enabling machines to interpret and understand visual information from the world. This course covers the fundamental concepts and techniques in computer vision, including image processing, feature extraction, object detection, and image segmentation. Students will also explore advanced topics such as convolutional neural networks (CNNs) and their applications in areas like facial recognition and autonomous driving.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "11": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie310",
+        "course_name": "Reinforcement Learning",
+        "course_code": "AIE310",
+        "course_description": "Reinforcement Learning (RL) is a type of machine learning where agents learn to make decisions by interacting with their environment. This course covers the foundational concepts of RL, including Markov decision processes, value functions, and policy optimization. Students will study various RL algorithms, such as Q-learning, SARSA, and deep Q-networks (DQNs).",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250",
+                    "course_code": "AIE250",
+                    "course_name": "Data Modeling"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290",
+                    "course_code": "AIE290",
+                    "course_name": "Advanced Machine Learning"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "12": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+        "course_name": "Server Administration I: Windows Server",
+        "course_code": "BIT221",
+        "course_description": "This course introduces students to management and administration of Windows servers. Students explore the installation and configuration of a Windows server as well as the maintenance and administration of the operating system. Students are introduced to active directory domain services, networking services, local storage, file and print services, group policy, and server virtualization. Non BSIS students may be required to pay a course fee.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit320",
+                    "course_code": "BIT320",
+                    "course_name": "Shell & Administrative Scripting"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351",
+                    "course_code": "BIT351",
+                    "course_name": "Virtual Systems"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380",
+                    "course_code": "BIT380",
+                    "course_name": "Integrated Business Solutions"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro220",
+                    "course_code": "PRO221",
+                    "course_name": "Server Administration I: Windows Server Project"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/bit381",
+                    "course_code": "PRO381",
+                    "course_name": "Integrated Business Solutions Project"
+                }
+            ],
+            "co": []
+        }
+    },
+    "13": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224",
+        "course_name": "Server Administration II: Linux",
+        "course_code": "BIT224",
+        "course_description": "This course introduces students to the management and administration of Linux servers. Students explore the installation and configuration of a Linux server as well as the maintenance and administration of the system. Students are introduced to Samba as well as other pertinent network protocols.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit320",
+                    "course_code": "BIT320",
+                    "course_name": "Shell & Administrative Scripting"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351",
+                    "course_code": "BIT351",
+                    "course_name": "Virtual Systems"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320",
+                    "course_code": "ITS320",
+                    "course_name": "Systems, Network & Physical Security"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro224",
+                    "course_code": "PRO224",
+                    "course_name": "Server Administration II Project"
+                }
+            ],
+            "co": []
+        }
+    },
+    "14": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit228",
+        "course_name": "Server Administration III: Web",
+        "course_code": "BIT228",
+        "course_description": "This course introduces students to Web Server Administration, including the basics of web server administration, server installation, and configuration.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "15": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit281",
+        "course_name": "Hardware Systems",
+        "course_code": "BIT281",
+        "course_description": "This course provides an overview of various computer hardware systems. Students will explore system design and specifications as well as build, upgrade, and repair those systems. Students who successfully complete this course are prepared to take A+, the industry standard certification exam.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "16": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit320",
+        "course_name": "Shell & Administrative Scripting",
+        "course_code": "BIT320",
+        "course_description": "This course covers shell scripting for multiple industry standard operating systems. It provides credible, real-world relevance, as well as the flexible tools for students to effectively write scripts.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224",
+                    "course_code": "BIT224",
+                    "course_name": "Server Administration II: Linux"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                    "course_code": "BIT221",
+                    "course_name": "Server Administration I: Windows Server"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "17": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit340",
+        "course_name": "Development and Operations",
+        "course_code": "BIT300",
+        "course_description": "This course introduces students to the most common DevOps ideas to develop, deploy, maintain, and manage applications and infrastructure. Students will be introduced to industry standard tools used to monitor and automate the processes by which software and infrastructure can be integrated, tested and deployed. Students will analyze how DevOps can shorten development cycles, increase deployment frequency, facilitate more dependable releases and help alignment of software and infrastructure by supporting businesses objectives.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro340",
+                    "course_code": "PRO300",
+                    "course_name": "Development and Operations Project"
+                }
+            ],
+            "co": []
+        }
+    },
+    "18": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351",
+        "course_name": "Virtual Systems",
+        "course_code": "BIT351",
+        "course_description": "This course introduces students to virtualization technology. Students will be exposed to various ways to leverage virtual systems to improve performance, scalability, and affordability of computing power. Students learn how to implement various current virtualization technologies. Non BSIS students may be required to pay a course fee.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224",
+                    "course_code": "BIT224",
+                    "course_name": "Server Administration II: Linux"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                    "course_code": "BIT221",
+                    "course_name": "Server Administration I: Windows Server"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit360",
+                    "course_code": "BIT360",
+                    "course_name": "Applied Systems Operations & Disaster Recovery"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro351",
+                    "course_code": "PRO352",
+                    "course_name": "Virtualization Project"
+                }
+            ],
+            "co": []
+        }
+    },
+    "19": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit360",
+        "course_name": "Applied Systems Operations & Disaster Recovery",
+        "course_code": "BIT360",
+        "course_description": "This course introduces students to the tools and techniques used to manage an information technology system efficiently and with minimal downtime. Students learn how to strike a balance between the benefits and costs of various features. Topics covered include the elements of a computer system that can fail, ways to assess reliability, and options for maintaining resiliency and high availability for each one.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351",
+                    "course_code": "BIT351",
+                    "course_name": "Virtual Systems"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "20": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit370",
+        "course_name": "System Analysis & Business Modeling",
+        "course_code": "BIT370",
+        "course_description": "This course provides a thorough investigation into systems analysis and design. Topics include analyzing the business case, requirements modeling, data and process modeling, and development strategies, with an increased focus on object modeling and project management. Students also learn about output, user interface, and data design; systems architecture and implementation; and systems operation, support, and security.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/300/bus346",
+                    "course_code": "BUS346",
+                    "course_name": "Entrepreneurship"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "21": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380",
+        "course_name": "Integrated Business Solutions",
+        "course_code": "BIT380",
+        "course_description": "This course, in combination with the associated project course (PRO381) will be a hands-on introduction to emerging technologies that can help optimize business operation. Students will learn to design and implement a proof of concept using business critical tools that are considered emerging technologies. Emerging technologies in the information technology field rapidly change, therefore students will be exposed to the leading-edge technologies that enterprises are exploring and implementing.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                    "course_code": "BIT221",
+                    "course_name": "Server Administration I: Windows Server"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/bit381",
+                    "course_code": "PRO381",
+                    "course_name": "Integrated Business Solutions Project"
+                }
+            ],
+            "co": []
+        }
+    },
+    "22": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit390",
+        "course_name": "Emerging Technologies in Business",
+        "course_code": "BIT390",
+        "course_description": "This course looks at technology trends and the impact emerging technology has on the business world. Students will be exposed to emerging trends and an understanding of ways those technologies can be leveraged in various business sectors. Students will be able to identify ways to add value to various businesses or to the products and services they create.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491",
+                    "course_code": "PRO491",
+                    "course_name": "Enterprise Projects II"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390",
+                    "course_code": "PRO390",
+                    "course_name": "Capstone Project"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492",
+                    "course_code": "PRO492",
+                    "course_name": "Enterprise Projects III"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490",
+                    "course_code": "PRO490",
+                    "course_name": "Enterprise Projects I"
+                }
+            ]
+        }
+    },
+    "23": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus101",
+        "course_name": "Personal Finance",
+        "course_code": "BUS101",
+        "course_description": "This course provides an overview of strategies for coping with daily living expenses while planning for long-term financial security.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "24": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/100/bus110",
+        "course_name": "Principles of Finance",
+        "course_code": "BUS110",
+        "course_description": "This course focuses on principles of sound financial decision-making throughout the various stages of life. Savings, debt, principal, interest, investing, budgeting, financial planning, and financial responsibility are studied.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "25": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/200/bus202",
+        "course_name": "Studies in Economics",
+        "course_code": "BUS202",
+        "course_description": "This course provides an overview of the economic system. Students will explore the standard economic models used to examine how individuals and organizations make decisions in competitive markets. Principles of both macroeconomics and microeconomics are explored.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "26": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/bus-business/300/bus346",
+        "course_name": "Entrepreneurship",
+        "course_code": "BUS346",
+        "course_description": "The purpose of this course is to help you learn about business fundamentals though entrepreneurship. This is accomplished by students taking a hands-on approach to the entrepreneurial experience. Students will leverage a variety of business management techniques that contribute to the success of planning, funding, launching, growing, and sustaining business viability.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit370",
+                    "course_code": "BIT370",
+                    "course_name": "System Analysis & Business Modeling"
+                }
+            ],
+            "co": []
+        }
+    },
+    "27": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc105",
+        "course_name": "Using Modern Operating Systems",
+        "course_code": "CSC105",
+        "course_description": "Students learn many of the most productive ways to use modern operating systems like Windows and Linux. Students learn those specifics about operating systems that will enable them to be highly effective software developers. Topics of study include roles of the OS kernel, virtual memory handling, and file systems. Students also explore functions of the operating system that will make them more productive such as shell interaction and scripting, environment variables, and security.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "28": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110",
+        "course_name": "Introduction to Computer Science",
+        "course_code": "CSC110",
+        "course_description": "Students gain exposure to a wide variety of topics in computer science. While building real applications, students also learn fundamental concepts about such topics as data storage and manipulation, object-oriented programming, and other introductory topics.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240",
+                    "course_code": "CSC240",
+                    "course_name": "Business Web Development"
+                }
+            ],
+            "co": []
+        }
+    },
+    "29": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130",
+        "course_name": "Principles of Software Engineering",
+        "course_code": "CSC130",
+        "course_description": "This course introduces students to the software development life cycle and includes discussions on software processes, process models, and methodologies. The course also discusses support and maintenance related to software after it has been released.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100",
+                    "course_code": "PRO100",
+                    "course_name": "Introductory Software Projects"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360",
+                    "course_code": "CSC360",
+                    "course_name": "Software Design Principles"
+                }
+            ],
+            "co": []
+        }
+    },
+    "30": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140",
+        "course_name": "Dynamic & Scripting Languages",
+        "course_code": "CSC140",
+        "course_description": "This course introduces students to modern dynamic and scripting languages. In addition to syntax and development in these languages, students will be exposed to best practices as well as reasons to implement solutions with dynamic or scripting languages versusother popular modern languages.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "31": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc145",
+        "course_name": "Prompt Engineering",
+        "course_code": "CSC145",
+        "course_description": "Prompt Engineering is a class designed to equip students with the skills and knowledge necessary to effectively design, develop, and evaluate prompts for various AI language models and integrated AI tools. This course focuses on the intersection of linguistics, cognitive science, and computer science to create prompts that improve the interaction between humans and AI models.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "32": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+        "course_name": "Object Oriented Programming & Design",
+        "course_code": "CSC150",
+        "course_description": "This course provides a thorough introduction to object-oriented programming. Topics include fundamentals of programming, classes and objects, inheritance, polymorphism, interfaces, events, and exception handling, with an emphasis on writing quality object-oriented code.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110",
+                    "course_code": "CSC110",
+                    "course_name": "Introduction to Computer Science"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171",
+                    "course_code": "CSC171",
+                    "course_name": "Mobile Application Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180",
+                    "course_code": "CSC180",
+                    "course_name": "Open Source Platforms Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                    "course_code": "CSC195",
+                    "course_name": "C++ Programming I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250",
+                    "course_code": "CSC250",
+                    "course_name": "Algorithms & Data Structures I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+                    "course_code": "CSC351",
+                    "course_name": "Data Structures and Algorithms for AI"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200",
+                    "course_code": "PRO200",
+                    "course_name": "Software Projects in Emerging Platforms"
+                }
+            ],
+            "co": []
+        }
+    },
+    "33": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+        "course_name": "Application Development",
+        "course_code": "CSC160",
+        "course_description": "This course introduces students to various concepts and programming standards for the .NET environment. Topics may include Windows desktop application development, multi-user implementations, and application data persistence management.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130",
+                    "course_code": "DBT130",
+                    "course_name": "Databases I"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+                    "course_code": "CSC351",
+                    "course_name": "Data Structures and Algorithms for AI"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180",
+                    "course_code": "GAT185",
+                    "course_name": "Introduction to Game Engines"
+                }
+            ],
+            "co": []
+        }
+    },
+    "34": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171",
+        "course_name": "Mobile Application Development",
+        "course_code": "CSC171",
+        "course_description": "Students will be exposed to design and development techniques used for developing applications for mobile devices. This course explores the devices, their operating system platforms, and their hardware profiles for application programming.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "35": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180",
+        "course_name": "Open Source Platforms Development",
+        "course_code": "CSC180",
+        "course_description": "Students are introduced to the Java core packages and APIs. Students learn skills for developing, deploying, and managing Java applications. Course content includes the language''s syntax, core APIs, graphical user interface (GUI) framework(s), and platform tools.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+                    "course_code": "CSC351",
+                    "course_name": "Data Structures and Algorithms for AI"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180",
+                    "course_code": "GAT185",
+                    "course_name": "Introduction to Game Engines"
+                }
+            ],
+            "co": []
+        }
+    },
+    "36": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+        "course_name": "Scripting and Automation",
+        "course_code": "CSC181",
+        "course_description": "This course focuses on rapid development of basic applications to solve specific problems using scripting languages. Students will explore the benefits automation through code. The goal of the course is to provide students with additional tools for handling and simplifying tedious or repetitive tasks they may deal with throughout their career in the tech industry.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200",
+                    "course_code": "AIE200",
+                    "course_name": "Neural Networks and Deep Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+                    "course_code": "AIE210",
+                    "course_name": "Natural Language Processing"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+                    "course_code": "CSC220",
+                    "course_name": "Fundamentals of Machine Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+                    "course_code": "CSC351",
+                    "course_name": "Data Structures and Algorithms for AI"
+                }
+            ],
+            "co": []
+        }
+    },
+    "37": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+        "course_name": "C++ Programming I",
+        "course_code": "CSC195",
+        "course_description": "This course covers fundamental software development concepts using the C++ programming language. Students will be introduced to a variety of topics including pointers, references, memory tracking, operator overloading, and function objects.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196",
+                    "course_code": "CSC196",
+                    "course_name": "C++ Programming II"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+                    "course_code": "CSC351",
+                    "course_name": "Data Structures and Algorithms for AI"
+                }
+            ],
+            "co": []
+        }
+    },
+    "38": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196",
+        "course_name": "C++ Programming II",
+        "course_code": "CSC196",
+        "course_description": "This course focuses on using the C++ programming language to create and use a basic game engine. In building this engine, students will be required to implement features including transformations on objects using matrices, linear interpolation, particle effects, and memory management.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                    "course_code": "CSC195",
+                    "course_name": "C++ Programming I"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "39": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/hum150",
+        "course_name": "Logical and Computational Thinking",
+        "course_code": "CSC125",
+        "course_description": "This course provides an introduction to propositional logic, including truth tables, truth trees, and natural deduction, with an emphasis on the application of logic to the evaluation of arguments expressed in natural language. This course also covers full first-order predicate logic, with an emphasis on logical evaluation of arguments expressed in natural language. First-order logic topics include translation, truth trees, deduction trees, sorted logic, identity, and modal operators.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "40": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc210",
+        "course_name": "Introduction to Web Presentation & Development",
+        "course_code": "CSC210",
+        "course_description": "Students gain exposure to a wide variety of topics in web development. This course introduces students to the skills necessary to design and develop a basic web site while exposing them to concepts and terminology that are applicable in a technical career.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "41": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+        "course_name": "Fundamentals of Machine Learning",
+        "course_code": "CSC220",
+        "course_description": "This course introduces the core principles and techniques of machine learning. Students will learn about supervised and unsupervised learning, covering algorithms such as linear regression, decision trees, k-nearest neighbors, and k-means clustering. The course emphasizes the importance of data preprocessing, model evaluation, and validation.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                    "course_code": "CSC181",
+                    "course_name": "Scripting and Automation"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250",
+                    "course_code": "AIE250",
+                    "course_name": "Data Modeling"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290",
+                    "course_code": "AIE290",
+                    "course_name": "Advanced Machine Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro101",
+                    "course_code": "PRO101",
+                    "course_name": "AI Projects I"
+                }
+            ],
+            "co": []
+        }
+    },
+    "42": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc230",
+        "course_name": "Computational Theory",
+        "course_code": "CSC230",
+        "course_description": "This course is designed to pique a student''s interest in exploring and learning more about the theoretical side of computing. This course exposes students to conceptual tools that practitioners use in computer engineering and develops critical-thinking and problem-solving skills by demonstrating elegant solutions to complicated problems.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250",
+                    "course_code": "CSC250",
+                    "course_name": "Algorithms & Data Structures I"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "43": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240",
+        "course_name": "Business Web Development",
+        "course_code": "CSC240",
+        "course_description": "In today''s economy even the smallest businesses are expected to have a website. In this course students learn how businesses can improve their processes by using the Internet to interface with customers, partners, and suppliers. This includes the implementation and programming of technologies such as e-commerce, live online customer service/support, and supply-chain management tools. Students learn the phases of web development such as analysis, development, and deployment. Students also research the tools and technology (both proprietary and open source) most commonly used to develop websites.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc110",
+                    "course_code": "CSC110",
+                    "course_name": "Introduction to Computer Science"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "44": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250",
+        "course_name": "Algorithms & Data Structures I",
+        "course_code": "CSC250",
+        "course_description": "This course is designed to enhance a student''s problem solving ability and enhance their skill sets in developing solutions to common software problems using general algorithms and abstract data types. Students will utilize common data structures and understand and apply various searching and sorting algorithms.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110",
+                    "course_code": "MAT101",
+                    "course_name": "Mathematics for the Computer Sciences"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc230",
+                    "course_code": "CSC230",
+                    "course_name": "Computational Theory"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc252",
+                    "course_code": "CSC252",
+                    "course_name": "Algorithms & Data Structures II"
+                }
+            ],
+            "co": []
+        }
+    },
+    "45": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc252",
+        "course_name": "Algorithms & Data Structures II",
+        "course_code": "CSC252",
+        "course_description": "This course is designed as a continuation of CSC250. This course focuses on tree- and table-based data structures, as well as advanced algorithmic techniques and algorithm discovery/creation. Students compare and contrast algorithms and programming methods to better understand the principles involved in being a good computer science problem solver.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250",
+                    "course_code": "CSC250",
+                    "course_name": "Algorithms & Data Structures I"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "46": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+        "course_name": "Dynamic Web Programming",
+        "course_code": "CSC260",
+        "course_description": "This course builds on students'' knowledge of the .NET environment and programming standards within that environment. Topics may include Windows web development and web services.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100",
+                    "course_code": "PRO100",
+                    "course_name": "Introductory Software Projects"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270",
+                    "course_code": "CSC270",
+                    "course_name": "Solution Stack Software Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc330",
+                    "course_code": "CSC330",
+                    "course_name": "Programming Languages"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc340",
+                    "course_code": "CSC340",
+                    "course_name": "Computer Architecture"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360",
+                    "course_code": "CSC360",
+                    "course_name": "Software Design Principles"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380",
+                    "course_code": "CSC380",
+                    "course_name": "Distributed Systems"
+                }
+            ],
+            "co": []
+        }
+    },
+    "47": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270",
+        "course_name": "Solution Stack Software Development",
+        "course_code": "CSC270",
+        "course_description": "Students will develop an understanding of solution stacks and their role as complete software platforms. Students will explore development in one or more solution stacks. Students will learn how to implement and utilize the various components of a solution stack to launch enterprise-level software solutions. Students may be required to pay a class fee.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "48": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+        "course_name": "Developing Scalable Web Applications",
+        "course_code": "CSC280",
+        "course_description": "Students build upon the knowledge gained from CSC180 and begin learning the Java Enterprise Edition (Java EE) platform. Java EE technologies are introduced with an emphasis on Java Web technologies such as Servlets, Java Server Pages (JSP), the Web container, and the role of enterprise application servers. Design patterns applicable to the presentation tier are discussed. Students learn how to put persistence strategies into practice. Applicable open-source frameworks and tools may also be introduced.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100",
+                    "course_code": "PRO100",
+                    "course_name": "Introductory Software Projects"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180",
+                    "course_code": "CSC180",
+                    "course_name": "Open Source Platforms Development"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270",
+                    "course_code": "CSC270",
+                    "course_name": "Solution Stack Software Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc330",
+                    "course_code": "CSC330",
+                    "course_name": "Programming Languages"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc340",
+                    "course_code": "CSC340",
+                    "course_name": "Computer Architecture"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360",
+                    "course_code": "CSC360",
+                    "course_name": "Software Design Principles"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380",
+                    "course_code": "CSC380",
+                    "course_name": "Distributed Systems"
+                }
+            ],
+            "co": []
+        }
+    },
+    "49": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc330",
+        "course_name": "Programming Languages",
+        "course_code": "CSC330",
+        "course_description": "Introduction to the broad field of programming languages. This course explores implementation issues, the theoretical foundations of programming languages, the evolution of programming languages, as well as semantics and programming. Students may be required to pay a class fee.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "50": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc340",
+        "course_name": "Computer Architecture",
+        "course_code": "CSC340",
+        "course_description": "This course helps students build an understanding of the most fundamental building blocks of computers. Starting at the digital-gate level, students will learn to design digital logic. Students study digital abstractions such as flip-flops and latches, memory and arithmetic logic units. Students learn to combine these abstractions to design fully functional CPUs. This course also touches on the interface between memory, CPUs and I/O ports. At the successful completion of this course, students are comfortable with the underlying constructs that support systems-level software. Students may be required to pay a class fee.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "51": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+        "course_name": "Data Structures and Algorithms for AI",
+        "course_code": "CSC351",
+        "course_description": "This course focuses on data structures and algorithms that are particularly relevant for AI applications. Students will study essential data structures such as trees, graphs, heaps, and hash tables, along with algorithms for searching, sorting, and optimization. The course also covers algorithmic techniques like dynamic programming and greedy algorithms. Students will learn to design and implement efficient algorithms that are crucial for the performance of AI systems.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180",
+                    "course_code": "CSC180",
+                    "course_name": "Open Source Platforms Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                    "course_code": "CSC181",
+                    "course_name": "Scripting and Automation"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                    "course_code": "CSC195",
+                    "course_name": "C++ Programming I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260",
+                    "course_code": "MAT260",
+                    "course_name": "Statistics"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "52": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc360",
+        "course_name": "Software Design Principles",
+        "course_code": "CSC360",
+        "course_description": "Students learn advanced software design techniques including the use of abstraction, metaphor, scope reduction, elimination of redundancy, as well as the use of patterns that employ these principles. The course helps students understand how to apply these principles to build, re-factor, and maintain software.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130",
+                    "course_code": "CSC130",
+                    "course_name": "Principles of Software Engineering"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "53": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380",
+        "course_name": "Distributed Systems",
+        "course_code": "CSC380",
+        "course_description": "This course explores computational processing residing on multiple platforms. Students start with basics such as simple socket communications, protocol rationale, and remote procedure invocation, and then advance to the use of these mechanisms to address distributed concerns such as caching and transactions. Finally, this course looks into topological concerns that come with scale such as cloud computing and fully decentralized distributed systems.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150",
+                    "course_code": "PRO150",
+                    "course_name": "Web-Based Software Projects"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "54": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat205",
+        "course_name": "Introduction to Data Science",
+        "course_code": "DAT205",
+        "course_description": "This introductory course covers the fundamental concepts and techniques of data science. Students will learn about data collection, cleaning, and preprocessing, and exploratory data analysis and visualization. The curriculum includes basic statistical methods and an introduction to machine learning algorithms.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie250",
+                    "course_code": "AIE250",
+                    "course_name": "Data Modeling"
+                }
+            ],
+            "co": []
+        }
+    },
+    "55": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210",
+        "course_name": "Applied Data Analytics and Visualization",
+        "course_code": "DAT210",
+        "course_description": "This course provides a comprehensive introduction to data analytics and visualization techniques used to transform raw data into meaningful insights. Students will learn how to collect, clean, analyze, and visualize data using various tools and software. The course emphasizes practical applications, teaching students how to create compelling visualizations that effectively communicate data-driven stories and support decision-making processes. By the end of the course, students will be equipped with the skills to apply data analytics and visualization methods in real-world scenarios.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130",
+                    "course_code": "DBT130",
+                    "course_name": "Databases I"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220",
+                    "course_code": "DAT220",
+                    "course_name": "Applied Python for Data Analysis"
+                }
+            ],
+            "co": []
+        }
+    },
+    "56": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220",
+        "course_name": "Applied Python for Data Analysis",
+        "course_code": "DAT220",
+        "course_description": "This course introduces students to the practical use of Python for data analysis. Students will learn how to leverage Python libraries such as pandas, NumPy, and Matplotlib to manipulate, analyze, and visualize data. The course emphasizes hands-on experience, teaching students how to work with real-world datasets to derive insightsand support decision-making. By the end of the course, students will have the skills to apply Python programming to solve data analysis problems and create informative visualizations.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210",
+                    "course_code": "DAT210",
+                    "course_name": "Applied Data Analytics and Visualization"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+                    "course_code": "AIE210",
+                    "course_name": "Natural Language Processing"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat320",
+                    "course_code": "DAT320",
+                    "course_name": "Applied Machine Learning"
+                }
+            ],
+            "co": []
+        }
+    },
+    "57": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat305",
+        "course_name": "Big Data Analytics",
+        "course_code": "DAT305",
+        "course_description": "This course delves into the techniques and technologies used to analyze large and complex datasets. Students will learn about distributed computing frameworks such as Hadoop and Spark, along with big data storage solutions like NoSQL databases. The curriculum covers data processing, analysis, and visualization at scale, emphasizing the challenges and opportunities of working with big data.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "58": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat320",
+        "course_name": "Applied Machine Learning",
+        "course_code": "DAT320",
+        "course_description": "This course provides a hands-on introduction to the principles and practices of machine learning. Students will learn how to apply machine learning algorithms to real-world datasets to uncover patterns, make predictions, and inform decision-making. The course covers key concepts such as supervised and unsupervised learning, model evaluation, and feature engineering. By the end of the course, students will be equipped with the skills to implement, evaluate, and deploy machine learning models using popular tools and frameworks.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat220",
+                    "course_code": "DAT220",
+                    "course_name": "Applied Python for Data Analysis"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro322",
+                    "course_code": "PRO322",
+                    "course_name": "Applied AI Projects II (Machine Learning)"
+                }
+            ],
+            "co": []
+        }
+    },
+    "59": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360",
+        "course_name": "Applied Data Engineering",
+        "course_code": "DAT360",
+        "course_description": "This course provides a comprehensive introduction to data engineering principles and practices. Students will learn how to design, build, and manage data pipelines and workflows to support data analytics and machine learning applications. The course covers topics such as data warehousing, ETL (Extract, Transform, Load) processes, data integration, and data quality management. By the end of the course, students will be equipped with the skills to implement and maintain scalable and efficient data engineering solutions in real-world scenarios.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/300/aai350",
+                    "course_code": "AAI350",
+                    "course_name": "Cloud-Based AI Solutions"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro361",
+                    "course_code": "PRO361",
+                    "course_name": "Applied AI Projects III (Data Engineering)"
+                }
+            ],
+            "co": []
+        }
+    },
+    "60": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130",
+        "course_name": "Databases I",
+        "course_code": "DBT130",
+        "course_description": "Students gain competence in relational database management systems. Students study the relational model of data, database design, basic database administration, and SQL querying, programming, and data manipulation. Students use modern relational database management systems (such as SQL Server) to apply their knowledge.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/200/dat210",
+                    "course_code": "DAT210",
+                    "course_name": "Applied Data Analytics and Visualization"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330",
+                    "course_code": "PRO335",
+                    "course_name": "Persistence Project"
+                }
+            ],
+            "co": []
+        }
+    },
+    "61": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/200/dbt230",
+        "course_name": "Databases II",
+        "course_code": "DBT230",
+        "course_description": "Students learn about non-relational options for persistence of structured and non-structured data. Students explore, contrast, and implement persistence options such as text and binary files, XML and JSON, and key-value pair, document, column-family, or other current NoSQL databases. Strategies for meeting the persistence needs of large-scale systems are also introduced.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "62": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110",
+        "course_name": "Introduction to English Composition",
+        "course_code": "ENG110",
+        "course_description": "This course introduces crucial skills for college-level writing and establishes a solid foundation for future professional communications. Students explore effective writing processes, build awareness of writing conventions, improve revising skills, and expand critical thinking, reading, and writing abilities. ENG110 is also intended to expand students'' knowledge of grammar, punctuation, style, and introduce them to the research process, including proper citation and formatting.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/200/eng210",
+                    "course_code": "ENG210",
+                    "course_name": "Persuasive & Professional Writing"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng312",
+                    "course_code": "ENG312",
+                    "course_name": "Creative Writing with AI"
+                }
+            ],
+            "co": []
+        }
+    },
+    "63": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/200/eng210",
+        "course_name": "Persuasive & Professional Writing",
+        "course_code": "ENG210",
+        "course_description": "This writing course will provide the tools to effectively gather and refine information, organize it in reader-friendly fashion, and adapt it for the appropriate audience and genre. The course teaches the rhetorical principles that help students shape their writing ethically, for multiple audiences, and in a variety of scenarios. Students are prepared for the writing environment of the 21st-century through research, applied practice, collaboration, and revision.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110",
+                    "course_code": "ENG110",
+                    "course_name": "Introduction to English Composition"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "64": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng311",
+        "course_name": "Principles of Creative Writing",
+        "course_code": "ENG311",
+        "course_description": "This course introduces the basics of creative writing. Students explore technique, figurative language, plot, tone, technique, setting, imagery, characters, point of view, voice, and more. The course includes the reading and writing of creative works along with peer critiques and collaborative discussions.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "65": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/300/eng312",
+        "course_name": "Creative Writing with AI",
+        "course_code": "ENG312",
+        "course_description": "This course explores generative Artificial Intelligence tools in the area of creative writing. Students will become the designers and delineators of creative works, composing prompts and comparing results achieved with the AI''s assistance.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/eng-english/100/eng110",
+                    "course_code": "ENG110",
+                    "course_name": "Introduction to English Composition"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "66": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac101",
+        "course_name": "Art Appreciation",
+        "course_code": "FAC101",
+        "course_description": "Students gain a basic understanding of the visual arts. Classic and electronic images are analyzed as well as structure and cultural frameworks.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "67": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac105",
+        "course_name": "Leadership & Problem Solving",
+        "course_code": "FAC105",
+        "course_description": "This course introduces students to basics of leadership, communication, and decision making. Students work collaboratively to develop an understanding of unique solutions. Students learn to understand many elements of a problem, research the problem and potential solutions, and critically think through potential solutions.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "68": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac120",
+        "course_name": "Spoken Communications",
+        "course_code": "FAC120",
+        "course_description": "Students strengthen their oral presentation skills by exploring and applying appropriate techniques for preparing and delivering speeches. Students learn speech, composition, and delivery methods needed to give effective presentations for technical and non-technical audiences alike. Students gain a basic understanding of effective and ethical public speaking, as well as develop poise and confidence in delivering public presentations to a variety'nof audiences.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "69": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac125",
+        "course_name": "Collaborative & Interpersonal Communications",
+        "course_code": "FAC125",
+        "course_description": "Students actively develop and apply necessary collaborative skills for successful interpersonal interactions and group work. Students learn and use principles related to interpersonal communications, group dynamics, leadership, and the collaborative group life-cycle. Students are exposed to knowledge in these domains, and develop practical skills that can be directly applied to their projects.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "70": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/fac130",
+        "course_name": "Character Design",
+        "course_code": "FAC130",
+        "course_description": "This course introduces students to the fundamentals of designing a character. Students will be taught how to create character model sheets that focus on expression, appeal, and reproducibility. A variety of methods will be explored including hand drawn concept designs and fully developed 2D digital renderings.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "71": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/100/ind200",
+        "course_name": "3D Printing",
+        "course_code": "FAC135",
+        "course_description": "Students will use creative problem solving skills to design 3 dimensional physical objects, and then explore a range of software tools to realize their ideas in digital form. Students will also research and report on the impacts of additive manufacturing on society, exploring topics such as challenges to intellectual property paradigms, changes in product design and development methods, increased access to manufacturing, and recent developments in the industry.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "72": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac201",
+        "course_name": "Music Appreciation",
+        "course_code": "FAC201",
+        "course_description": "Students will be introduced to a range of music. They will develop skills in recognizing different components of music and styles.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "73": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/fac-fine-arts-and-communication/200/fac210",
+        "course_name": "Music Composition",
+        "course_code": "FAC210",
+        "course_description": "This course provides an overview of the songwriting and compositional creative process.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "74": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180",
+        "course_name": "Introduction to Game Engines",
+        "course_code": "GAT185",
+        "course_description": "This course covers game development using industry standard game engines. Through instruction and hands-on experience, students will learn how to create games utilizing commercial game engines. The course will engage students in a series of projects that will expand their ability to create games. Students will also create their own games using the game engine.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180",
+                    "course_code": "CSC180",
+                    "course_name": "Open Source Platforms Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat310",
+                    "course_code": "GAT315",
+                    "course_name": "Game Physics"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/400/gat420",
+                    "course_code": "GAT420",
+                    "course_name": "Artificial Intelligence"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro385",
+                    "course_code": "PRO385",
+                    "course_name": "Game Engine Projects"
+                }
+            ],
+            "co": []
+        }
+    },
+    "75": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat120",
+        "course_name": "Topics in Game Development",
+        "course_code": "GAT120",
+        "course_description": "This course is designed to provide an intellectual and practical framework in game development. Students are exposed to the professional game development cycle, from green-lighting a project to delivering a complete and shippable product. Skills practiced in the course include creating and refining game concepts, iterative game development, prototyping, game polish and presentation, and documentation methods.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "76": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+        "course_name": "Introduction to Game Programming",
+        "course_code": "GAT150",
+        "course_description": "Students will gain an understanding of the core programming elements of a video game through the development of a game engine and game. Each student will design and code a game engine and game from start to finish using techniques and algorithms used in the game industry. This course also examines the relationship between the game code and the engine as well as common game programming concepts. Areas of study include engine architecture, game entities, and gameplay programming.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat310",
+                    "course_code": "GAT315",
+                    "course_name": "Game Physics"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat350",
+                    "course_code": "GAT350",
+                    "course_name": "Computer Graphics"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat360",
+                    "course_code": "GAT360",
+                    "course_name": "Game Programming & Production"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/400/gat420",
+                    "course_code": "GAT420",
+                    "course_name": "Artificial Intelligence"
+                }
+            ],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc196",
+                    "course_code": "CSC196",
+                    "course_name": "C++ Programming II"
+                }
+            ]
+        }
+    },
+    "77": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat310",
+        "course_name": "Game Physics",
+        "course_code": "GAT315",
+        "course_description": "This course covers physics concepts and how these concepts are used in games and simulations. In this course, students will learn game physics principles and then implement them in their own physics simulations. Topics of study include Newtonian physics, numerical integration, collision detection and collision resolution, constraints and other physics concepts.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180",
+                    "course_code": "GAT185",
+                    "course_name": "Introduction to Game Engines"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+                    "course_code": "GAT150",
+                    "course_name": "Introduction to Game Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "78": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat350",
+        "course_name": "Computer Graphics",
+        "course_code": "GAT350",
+        "course_description": "This course covers the fundamentals of computer graphics. The course will examine the stages of the graphics pipeline including modeling, transformation and rasterization. Students will develop graphics applications using algorithms and techniques discussed in class.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+                    "course_code": "GAT150",
+                    "course_name": "Introduction to Game Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "79": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/300/gat360",
+        "course_name": "Game Programming & Production",
+        "course_code": "GAT360",
+        "course_description": "Students build upon their experience and knowledge to explore more advanced topics of game programming and production. Students will study the architecture and algorithms of commercial engines to help develop their own understanding of how professional engines operate. In addition, students will explore the process of game development from concept to completion through the development of their personal projects.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+                    "course_code": "GAT150",
+                    "course_name": "Introduction to Game Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "80": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/400/gat420",
+        "course_name": "Artificial Intelligence",
+        "course_code": "GAT420",
+        "course_description": "In this course, students learn and develop intelligent behaviors for computer agents. Students will implement various AI algorithms for use in their games and simulations. Course topics include decision making, learning, path finding, and perception.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180",
+                    "course_code": "GAT185",
+                    "course_name": "Introduction to Game Engines"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/gat160",
+                    "course_code": "GAT150",
+                    "course_name": "Introduction to Game Programming"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "81": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/100/hum160",
+        "course_name": "Ancient Mythology",
+        "course_code": "HUM160",
+        "course_description": "This course introduces students to the worlds of classical, Norse, and/or medieval mythology. In addition to history and origin, the importance and impact of mythical elements in civilization and the modern world will be explored.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "82": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum200",
+        "course_name": "The Imagination of Horror in Media",
+        "course_code": "HUM200",
+        "course_description": "This course will explore theories of horror, from the fantastic to the uncanny through the lens of key moments in the genre''s development in literature, art, and film. The history of the development of horror tropes and themes, the merits of vampires versus zombies, specters, ghosts, and supernatural beings would be some topics discussed throughout this course.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "83": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/hum-humanities/200/hum205",
+        "course_name": "Ethics",
+        "course_code": "HUM205",
+        "course_description": "Students examine the concept of ethics and the basic principles underlying ethical practice. Students explore research and literature on ethics and relate this information to decision-making in professional and civic arenas.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "84": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215",
+        "course_name": "Networking I",
+        "course_code": "ITH215",
+        "course_description": "This class will provide students with a basic understanding of networking concepts. Study of the Internet Protocol (IP) and the OSI Model will familiarize students with topics such as: the physical network layer, MAC and IP Addresses, sub-networks and sub-netting, TCP and UDP. The class will familiarize students with basic routing and network topologies.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216",
+                    "course_code": "ITH216",
+                    "course_name": "Networking II"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/300/ith317",
+                    "course_code": "ITH317",
+                    "course_name": "Networking III"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its380",
+                    "course_code": "ITS380",
+                    "course_name": "Auditing, Governance & Compliance"
+                }
+            ],
+            "co": []
+        }
+    },
+    "85": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216",
+        "course_name": "Networking II",
+        "course_code": "ITH216",
+        "course_description": "In this course, students will explore advanced networking concepts. Students will gain core competencies in OSPF and BGP routing protocols, leased-line/serial network connections, and complex network topologies. Focus will also be placed on network services such as DHCP, NTP, and DNS. Physical versus virtual networking, ports, protocols, and services will be covered extensively. Non BSIS students may be required to pay a class fee.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215",
+                    "course_code": "ITH215",
+                    "course_name": "Networking I"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/300/ith317",
+                    "course_code": "ITH317",
+                    "course_name": "Networking III"
+                }
+            ],
+            "co": []
+        }
+    },
+    "86": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/300/ith317",
+        "course_name": "Networking III",
+        "course_code": "ITH317",
+        "course_description": "This course focuses on how data communications is accomplished efficiently and securely on enterprise networks and the Internet. Topics include: network protocols, traffic inspection, vulnerability assessment, baseline audits, logging, network segmentation, telecommunications, VoIP, and security tools. Students will engage in individual and team-based hands-on activities aimed at protocol analysis, network troubleshooting, and protocol-related security concerns.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith216",
+                    "course_code": "ITH216",
+                    "course_name": "Networking II"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215",
+                    "course_code": "ITH215",
+                    "course_name": "Networking I"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its340",
+                    "course_code": "ITS340",
+                    "course_name": "Network Perimeter Security"
+                }
+            ],
+            "co": []
+        }
+    },
+    "87": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320",
+        "course_name": "Systems, Network & Physical Security",
+        "course_code": "ITS320",
+        "course_description": "Students learn networking and systems basics, as well as designs, architectures, and tools that are required for an enterprise to protect and defend hardware and software systems. Students learn how systems and networks play a role in today''s public and private networks. In addition, discussions are presented, and hands-on labs are used to show the use of information security tools in the creation, protection and management of systems and networks, including multiple platforms, operating systems and environments.Non BSIS students may be required to pay a class fee.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224",
+                    "course_code": "BIT224",
+                    "course_name": "Server Administration II: Linux"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its390",
+                    "course_code": "ITS390",
+                    "course_name": "Hacking, Forensics & Countermeasures"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro321",
+                    "course_code": "PRO321",
+                    "course_name": "Systems, Network & Physical Security Project"
+                }
+            ],
+            "co": []
+        }
+    },
+    "88": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its340",
+        "course_name": "Network Perimeter Security",
+        "course_code": "ITS340",
+        "course_description": "This course focuses on the design and implementation of network perimeter security. Topics include: threat vectors, packet encapsulation, packet inspection, packet decoding, stateful and stateless firewalls, stateful inspection, intrusion detection and prevention, Network Address Translation, Access Control Lists, Virtual Private Networks, border routers, firewall rule bases, web application and database firewalls, firewall assessment, vulnerability assessment, baseline audits, logging, encryption, authentication, network segmentation, and security tools.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/300/ith317",
+                    "course_code": "ITH317",
+                    "course_name": "Networking III"
+                }
+            ],
+            "pre-for": [],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320",
+                    "course_code": "ITS320",
+                    "course_name": "Systems, Network & Physical Security"
+                }
+            ]
+        }
+    },
+    "89": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its380",
+        "course_name": "Auditing, Governance & Compliance",
+        "course_code": "ITS380",
+        "course_description": "Students explore the processes and procedures that are needed to protect a company''s assets and how law enforcement, government agencies, and auditors use tools to check and balance these protections against laws and requirements. This course covers various information security standards of operation, protection, and governance, including legislation and existing case law around information security topics. Students learn the very important role that information technology auditors take in a corporation and how they affect success or failure.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/ith-information-technology/200/ith215",
+                    "course_code": "ITH215",
+                    "course_name": "Networking I"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "90": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its390",
+        "course_name": "Hacking, Forensics & Countermeasures",
+        "course_code": "ITS390",
+        "course_description": "Students learn the ethical use of information security tools, tricks, and procedures that are used in real world enterprises. Discussions will include how to protect systems and networks through the use of tools and expertise. Students learn how a hacker would penetrate a system for exploit, how to use forensic analysis and procedures to catch criminals, and how to use countermeasures to protect vulnerable systems.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320",
+                    "course_code": "ITS320",
+                    "course_name": "Systems, Network & Physical Security"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "91": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit110",
+        "course_name": "Science Fiction Through Literature",
+        "course_code": "LIT110",
+        "course_description": "This course will examine science fiction and fantasy in written media. Students will survey the history of science fiction and fantasy and trace the way each creator has responded to changing social conditions, including the fears and anxieties that surround advancements in science and technology.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "92": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit120",
+        "course_name": "Comics as Literature",
+        "course_code": "LIT120",
+        "course_description": "This course explores the history and development of comic books, graphic novels, and their sub genres, as literature. Students will examine comics’ role in western and international societies and cultures. Issues of youth/adult readership and literacy, race, gender, politics, and violent content will be examined. The comic books’ presence in popular culture, the Internet, art forms, and translation into movies and censorship will also be discussed.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "93": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lit-literature/100/lit130",
+        "course_name": "Literary Masters",
+        "course_code": "LIT130",
+        "course_description": "This course focuses on the work of certain literary masters such as William Shakespeare, J.R.R. Tolkien, C.S. Lewis, George R.R. Martin, Charles Dickens, etc. Students will study how each author has contributed to specific genre and to the language at large. Authors and content are selected at the discretion of the instructor.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "94": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/lng-language/100/lng110",
+        "course_name": "Survey of Foreign Language",
+        "course_code": "LNG110",
+        "course_description": "This course introduces students to foreign language, including culture, foreign customs and practices, and written and verbal communication. Basic aural, verbal, and reading comprehension will be studied. Language to be focused on will be chosen by the instructor.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "95": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110",
+        "course_name": "Mathematics for the Computer Sciences",
+        "course_code": "MAT101",
+        "course_description": "Students are introduced to a variety of mathematical topics including basic set theory, practical applications in probability, and representation of numbers in floating point, binary, and other areas.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc250",
+                    "course_code": "CSC250",
+                    "course_name": "Algorithms & Data Structures I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat200",
+                    "course_code": "MAT200",
+                    "course_name": "Math-Based Codes, Ciphers & Secrets"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260",
+                    "course_code": "MAT260",
+                    "course_name": "Statistics"
+                }
+            ],
+            "co": []
+        }
+    },
+    "96": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150",
+        "course_name": "Precalculus",
+        "course_code": "MAT180",
+        "course_description": "This course introduces students to essential algebraic and trigonometric concepts requisite for success in higher-level math courses such as Linear Algebra and Calculus. Topics include mathematical expressions, linear equations, functions and graphs, polynomials, exponents, and problem solving. Additionally, trigonometric functions and equations, angles and triangles, similar triangles, inverse trigonometric functions and laws of sines and cosines will be explored.Completion of this course is equivalent to completing both MAT105 College Algebra and MAT150 Trigonometry.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210",
+                    "course_code": "MAT210",
+                    "course_name": "Linear Algebra"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat250",
+                    "course_code": "MAT250",
+                    "course_name": "Calculus"
+                }
+            ],
+            "co": []
+        }
+    },
+    "97": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105",
+        "course_name": "College Algebra",
+        "course_code": "MAT105",
+        "course_description": "This course introduces students to basic algebraic concepts. Students learn practical applications of algebraic concepts by finding solutions to appropriate applied problems. Topics include mathematical expressions, linear equations, functions and graphs, polynomials, exponents, and problem solving. This course provides foundational algebraic skills to succeed in subsequent math classes.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat150",
+                    "course_code": "MAT150",
+                    "course_name": "Trigonometry"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat200",
+                    "course_code": "MAT200",
+                    "course_name": "Math-Based Codes, Ciphers & Secrets"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210",
+                    "course_code": "MAT210",
+                    "course_name": "Linear Algebra"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc230",
+                    "course_code": "PSC230",
+                    "course_name": "Introduction to Chemistry"
+                }
+            ],
+            "co": []
+        }
+    },
+    "98": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat125",
+        "course_name": "Geometry",
+        "course_code": "MAT125",
+        "course_description": "This course introduces students to basic geometric concepts. Students learn practical applications of geometric concepts by finding solutions to appropriate applied problems. Topics include mathematical constructions, triangles, volume and surface area, polygons, and problem solving. This course provides foundational geometric skills to succeed in their career.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "99": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat150",
+        "course_name": "Trigonometry",
+        "course_code": "MAT150",
+        "course_description": "This introductory course explores trigonometric functions and equations, angles and triangles, similar triangles, inverse trigonometric functions and laws of sines and cosines.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105",
+                    "course_code": "MAT105",
+                    "course_name": "College Algebra"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "100": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat200",
+        "course_name": "Math-Based Codes, Ciphers & Secrets",
+        "course_code": "MAT200",
+        "course_description": "This course will expose students to the world of math-based codes and cryptography from elementary ciphers used in the ancient world to the most sophisticated modern-day encryption. Topics include encryption and decryption of concealment, transposition, and substitution ciphers. History of ciphers will be discussed as well as techniques used to break them.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110",
+                    "course_code": "MAT101",
+                    "course_name": "Mathematics for the Computer Sciences"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105",
+                    "course_code": "MAT105",
+                    "course_name": "College Algebra"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "101": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat210",
+        "course_name": "Linear Algebra",
+        "course_code": "MAT210",
+        "course_description": "This course gives students an opportunity to examine linear algebra, geometry, calculus, and planar/solid analytic geometry.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150",
+                    "course_code": "MAT180",
+                    "course_name": "Precalculus"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105",
+                    "course_code": "MAT105",
+                    "course_name": "College Algebra"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290",
+                    "course_code": "AIE290",
+                    "course_name": "Advanced Machine Learning"
+                }
+            ],
+            "co": []
+        }
+    },
+    "102": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat250",
+        "course_name": "Calculus",
+        "course_code": "MAT250",
+        "course_description": "This course examines several calculus techniques including differentiation and integration.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat150",
+                    "course_code": "MAT180",
+                    "course_name": "Precalculus"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "103": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260",
+        "course_name": "Statistics",
+        "course_code": "MAT260",
+        "course_description": "Students learn descriptive and inferential statistical methods with emphasis on sampling design, descriptive statistics, linear regression and correlation. Other areas covered include probability, sampling distributions, hypothesis testing and confidence intervals.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/copy-of-mat110",
+                    "course_code": "MAT101",
+                    "course_name": "Mathematics for the Computer Sciences"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200",
+                    "course_code": "AIE200",
+                    "course_name": "Neural Networks and Deep Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc351",
+                    "course_code": "CSC351",
+                    "course_name": "Data Structures and Algorithms for AI"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355",
+                    "course_code": "PRO355",
+                    "course_name": "Data Analytics Project I"
+                }
+            ],
+            "co": []
+        }
+    },
+    "104": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mgt-management/100/mgt101",
+        "course_name": "Introduction to Project Management",
+        "course_code": "MGT101",
+        "course_description": "In this course, students will explore the foundational principles of project management, focusing on both traditional and agile methodologies. The course will cover traditional project management techniques, such as the Waterfall model, as well as agile project management approaches, with a particular emphasis on Scrum and Kanban. Students will gain practical knowledge of how project management is implemented in software development and organizational contexts, and how these practices can vary between traditional and iterative agile approaches. By the end of the course, students will be equipped with the skills to effectively manage projects and adapt their strategies to suit different project environments.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "105": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mgt-management/copy-of-300/technology-management",
+        "course_name": "Technology Leadership",
+        "course_code": "MGT400",
+        "course_description": "In this course students will learn advanced social intelligence topics that cover personal awareness and development, team dynamics, cultural influences, organizational structures, and management techniques applicable to a career within software development.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "106": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/moa-modeling-and-analysis/100/moa141",
+        "course_name": "Introduction to Information Modeling",
+        "course_code": "MOA141",
+        "course_description": "This course provides an introduction to information and data modeling concepts. Students learn about modeling and querying an information system at the conceptual level and mapping between conceptual and logical (i.e. relational) levels. Modeling tools such as Object Role Modeling (ORM) and Unified Modeling Language (UML) are covered at an introductory level.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "107": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm140",
+        "course_name": "Basics of Film",
+        "course_code": "MTM140",
+        "course_description": "This course introduces students to the art of film. Students explore film style, genre and period, as well as the cultural origin of films. The course emphasizes historical, theoretical and current issues in film and their impact on current society. Students explore the elements of a successful film through careful analysis of various examples.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "108": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm161",
+        "course_name": "Introduction to Graphic Design",
+        "course_code": "MTM161",
+        "course_description": "Students will explore the use of computers and software as design tools and illustrative medium for creative use. Students will be exposed to digital techniques related to design, color, composition, and spatial relationships. Students will create digital art using drawing, rendering, composition, and other techniques.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "109": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/copy-of-mtm260",
+        "course_name": "Introduction to User Experience Design",
+        "course_code": "MTM210",
+        "course_description": "This course focuses on the fundamental concepts and common practices in the field of user experience. Students will gain knowledge of how to design prototypes, create visual hierarchies, optimize layouts, collect data from user testing, and adjust designs to improve the overall experience a user has when using a digital interface.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/copy-of-pro265",
+                    "course_code": "PRO210",
+                    "course_name": "Projects User Experience Design"
+                }
+            ],
+            "co": []
+        }
+    },
+    "110": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm230",
+        "course_name": "Digital Art I",
+        "course_code": "MTM230",
+        "course_description": "This course focuses on the creation of art for digital applications. Students work on various forms of digital art such as 2D and 3D drawing, models and meshes, textures and more. Students explore the deployment of these art assets in virtual environments.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "111": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+        "course_name": "Interactive Web Development",
+        "course_code": "MTM282",
+        "course_description": "This course focuses on current industry languages and standards for both front-end and back-end interactive web development. Students learn some of the languages, libraries, and frameworks available for creating web applications as well as techniques for implementing basic use of the full-stack in web-based projects.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300",
+                    "course_code": "AIE300",
+                    "course_name": "AI Development Frameworks and Integration"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320",
+                    "course_code": "MTM320",
+                    "course_name": "Advanced Web Scripting"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm370",
+                    "course_code": "MTM370",
+                    "course_name": "Front-End Implementation"
+                }
+            ],
+            "co": []
+        }
+    },
+    "112": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320",
+        "course_name": "Advanced Web Scripting",
+        "course_code": "MTM320",
+        "course_description": "This course focuses on advanced topics in both front-end and back-end development for the web. Students learn to construct useful tools and applications as well as work with various industry-accepted frameworks and libraries most commonly used in web development today.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                    "course_code": "MTM282",
+                    "course_name": "Interactive Web Development"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro450",
+                    "course_code": "PRO450",
+                    "course_name": "Projects in Full-Stack Development I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro460",
+                    "course_code": "PRO460",
+                    "course_name": "Projects in Full-Stack Development II"
+                }
+            ],
+            "co": []
+        }
+    },
+    "113": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm370",
+        "course_name": "Front-End Implementation",
+        "course_code": "MTM370",
+        "course_description": "This course focuses on common front-end technologies and best practices used in modern web design and development. Students will gain an in-depth understanding of responsive design as they construct websites and applications that function well on various desktop and mobile browser platforms. Use of industry-accepted frameworks and libraries for front-end development will be explored as well.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                    "course_code": "MTM282",
+                    "course_name": "Interactive Web Development"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "114": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/fac299",
+        "course_name": "Career Readiness",
+        "course_code": "NEU200",
+        "course_description": "Students will learn about, and put into practice, various topics related to effective personal communication, such as effective writing in memos, emails, resumes, and cover letters, and effective verbal communication, including conversations, interviewing techniques, negotiations, and other relevant aspects of communication.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "115": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/neu-neumont-success/hum106",
+        "course_name": "College Success Strategies",
+        "course_code": "NEU100",
+        "course_description": "This course helps students develop and refine necessary skills for success. Students learn effective time management, communication, and research skills. Students discuss the importance of ethics, professionalism, and integrity throughout their life.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "116": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/information-modeling-projects",
+        "course_name": "Information Modeling Projects",
+        "course_code": "PRO140",
+        "course_description": "Students will gain practical experience building conceptual and logical models for specific business domains and converting those models into functioning databases (both relational and non-relational).",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "117": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro100",
+        "course_name": "Introductory Software Projects",
+        "course_code": "PRO100",
+        "course_description": "Students will gain experience developing software projects at an introductory level. Basic software design and architecture principles will be applied while students develop an understanding of the software life cycle and key components of successful software development. Principles such as design, modeling, implementation, and testing will be areas of focus.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc130",
+                    "course_code": "CSC130",
+                    "course_name": "Principles of Software Engineering"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                }
+            ],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                    "course_code": "MTM282",
+                    "course_name": "Interactive Web Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc180",
+                    "course_code": "CSC180",
+                    "course_name": "Open Source Platforms Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                }
+            ]
+        }
+    },
+    "118": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro101",
+        "course_name": "AI Projects I",
+        "course_code": "PRO101",
+        "course_description": "This introductory AI project course leverages students'' foundational knowledge of programming principles, AI, machine learning, and data science concepts acquired in their initial years of study. The course focuses on the practical application of these principles, guiding students through integrating basic AI functionalities into existing application systems. Students are expected to apply techniques such as basic data preprocessing, model implementation, and evaluation to enhance system capabilities.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc220",
+                    "course_code": "CSC220",
+                    "course_name": "Fundamentals of Machine Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie210",
+                    "course_code": "AIE210",
+                    "course_name": "Natural Language Processing"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie200",
+                    "course_code": "AIE200",
+                    "course_name": "Neural Networks and Deep Learning"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "119": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro110",
+        "course_name": "Applied AI Projects I (AI in Business)",
+        "course_code": "PRO110",
+        "course_description": "This project-based course emphasizes practical experience, encouraging students to integrate AI tools into real-world scenarios and present their findings. By the end of the course, students will have a comprehensive project that showcases their ability to leverage AI technologies in a business context.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aai-applied-artificial-intelligence/100/aai110",
+                    "course_code": "AAI110",
+                    "course_name": "Applied AI Tools in Business"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "120": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro150",
+        "course_name": "Web-Based Software Projects",
+        "course_code": "PRO150",
+        "course_description": "Students will gain experience developing software projects for the web. Basic software design and architecture principles will be applied while students develop an understanding of the software life cycle and key components of successful software development. Principles such as design, modeling, implementation, and testing will be areas of focus. Students will work on projects in teams where they will be exposed to various roles of software teams and how those roles work together to achieve success.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300",
+                    "course_code": "AIE300",
+                    "course_name": "AI Development Frameworks and Integration"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/300/csc380",
+                    "course_code": "CSC380",
+                    "course_name": "Distributed Systems"
+                }
+            ],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                    "course_code": "MTM282",
+                    "course_name": "Interactive Web Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc280",
+                    "course_code": "CSC280",
+                    "course_name": "Developing Scalable Web Applications"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc260",
+                    "course_code": "CSC260",
+                    "course_name": "Dynamic Web Programming"
+                }
+            ]
+        }
+    },
+    "121": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/100/pro161",
+        "course_name": "Projects in Graphic Design",
+        "course_code": "PRO161",
+        "course_description": "Students experience graphic design production in a hands-on, project-based environment. Students will explore a variety of typical graphic design problems such as corporate identity, photo illustrations and manipulation, photography, ads, animations, information graphics, page layout, and typography.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/100/mtm161",
+                    "course_code": "MTM161",
+                    "course_name": "Introduction to Graphic Design"
+                }
+            ]
+        }
+    },
+    "122": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/copy-of-pro265",
+        "course_name": "Projects User Experience Design",
+        "course_code": "PRO210",
+        "course_description": "This project course will give students the opportunity to solve complex user experience problems using the same techniques commonly used in the industry. Students will research user needs, construct prototypes, test designs, and make modifications. The end goal will be to produce portfolio-quality work to demonstrate an understanding of the full process of UX design from concept to completion.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/copy-of-mtm260",
+                    "course_code": "MTM210",
+                    "course_name": "Introduction to User Experience Design"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "123": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200",
+        "course_name": "Software Projects in Emerging Platforms",
+        "course_code": "PRO200",
+        "course_description": "Students will gain experience developing software on emerging platforms such as mobile phones, tablets, or embedded systems. Software design and architecture principles will be applied while students experience various elements of the software life cycle. Principles such as design, modeling, implementation, testing, teamwork, and collaboration will be areas of focus. Students will work on projects in teams where they will be exposed to various roles of software teams and how those roles work together to achieve success.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc150",
+                    "course_code": "CSC150",
+                    "course_name": "Object Oriented Programming & Design"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro250",
+                    "course_code": "PRO250",
+                    "course_name": "Software Projects in Existing Code"
+                }
+            ],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171",
+                    "course_code": "CSC171",
+                    "course_name": "Mobile Application Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                    "course_code": "CSC181",
+                    "course_name": "Scripting and Automation"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                    "course_code": "MTM282",
+                    "course_name": "Interactive Web Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                    "course_code": "CSC195",
+                    "course_name": "C++ Programming I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140",
+                    "course_code": "CSC140",
+                    "course_name": "Dynamic & Scripting Languages"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                }
+            ]
+        }
+    },
+    "124": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro201",
+        "course_name": "AI Projects II",
+        "course_code": "PRO201",
+        "course_description": "This advanced AI project course builds on foundational knowledge, emphasizing the integration of sophisticated machine learning techniques and AI frameworks with comprehensive application system design. Students will deepen their understanding of cloud platforms and scalable architecture, focusing on the practical implementation of AI solutions in real-world scenarios. Throughout the course, students will design and develop robust application systems that seamlessly integrate multiple AI tools and frameworks. This includes managing data pipelines for model training, optimizing system functionality, and ensuring efficient deployment and maintenance on cloud infrastructures. By the end of the course, students will have demonstrated their ability to create complex, scalable AI-driven applications, showcasing their technical prowess and project management skills.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/200/aie290",
+                    "course_code": "AIE290",
+                    "course_name": "Advanced Machine Learning"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/aie-artificial-intelligence-engineering/300/aie300",
+                    "course_code": "AIE300",
+                    "course_name": "AI Development Frameworks and Integration"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "125": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro220",
+        "course_name": "Server Administration I: Windows Server Project",
+        "course_code": "PRO221",
+        "course_description": "Students will acquire practical experience designing, deploying, and configuring the current Windows Server for a corporate environment. Students will obtain valuable hands on experience with windows server features in the areas such as scalability, management, security, compute, networking, storage, and application platform. Attention will be given to Microsoft’s virtualization technologies with a focus on current trends and best business practices in the industry.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                    "course_code": "BIT221",
+                    "course_name": "Server Administration I: Windows Server"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "126": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro224",
+        "course_name": "Server Administration II Project",
+        "course_code": "PRO224",
+        "course_description": "Students will acquire practical experience designing, deploying, and configuring Linux for a corporate environment. Students will obtain valuable hands on experience with network services, and applications. Attention will be placed on current trends and best business practices in the industry.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit224",
+                    "course_code": "BIT224",
+                    "course_name": "Server Administration II: Linux"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "127": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro230",
+        "course_name": "Digital Art Projects",
+        "course_code": "PRO230",
+        "course_description": "Students work on projects involving 3D modeling and texturing for digital applications. Students experience hands-on projects where they gain expertise on how to model, map, and create textures for characters, interactive and environmental objects. Students learn to use digital media tools for texture creation and enhancement. Basic lighting, rendering, and animation techniques are also covered.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm230",
+                    "course_code": "MTM230",
+                    "course_name": "Digital Art I"
+                }
+            ]
+        }
+    },
+    "128": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro240",
+        "course_name": "Business Web Development Project",
+        "course_code": "PRO240",
+        "course_description": "Students work in teams on web development projects using skills developed in the co-requisite courses. The projects provide experience with various phases of web development, opportunities to perform a variety of roles on project teams, strengthen and integrate existing skills, and provide motivation for the acquisition of new skills. The project role and learning goals for each student are individualized in line with their knowledge base and growth focus. Projects may include interaction and/or collaboration with external clients and other stakeholders.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc240",
+                    "course_code": "CSC240",
+                    "course_name": "Business Web Development"
+                }
+            ]
+        }
+    },
+    "129": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro250",
+        "course_name": "Software Projects in Existing Code",
+        "course_code": "PRO250",
+        "course_description": "Students will gain experience developing software in existing code bases. These may be open source projects, projects from other students, or projects involving existing code from other sources. Software design and architecture principles will be applied while students experience various elements of the software life cycle. Principles such as design, modeling, implementation, testing, teamwork, and collaboration will be areas of focus. Students will work on projects in teams where they will be exposed to various roles of software teams and how those roles work together to achieve success.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro200",
+                    "course_code": "PRO200",
+                    "course_name": "Software Projects in Emerging Platforms"
+                }
+            ],
+            "pre-for": [],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc171",
+                    "course_code": "CSC171",
+                    "course_name": "Mobile Application Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc185",
+                    "course_code": "CSC181",
+                    "course_name": "Scripting and Automation"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/200/csc270",
+                    "course_code": "CSC270",
+                    "course_name": "Solution Stack Software Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/200/mtm282",
+                    "course_code": "MTM282",
+                    "course_name": "Interactive Web Development"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc195",
+                    "course_code": "CSC195",
+                    "course_name": "C++ Programming I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc140",
+                    "course_code": "CSC140",
+                    "course_name": "Dynamic & Scripting Languages"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/csc-computer-science/100/csc160",
+                    "course_code": "CSC160",
+                    "course_name": "Application Development"
+                }
+            ]
+        }
+    },
+    "130": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/pro440",
+        "course_name": "Quality Assurance Project",
+        "course_code": "PRO270",
+        "course_description": "This course focuses on creating quality assurance testing plans for the development of products or services. Students will explore a variety of test plans and methodologies addressing how the product meets quality and design requirements.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst100",
+                    "course_code": "TST200",
+                    "course_name": "Quality Assurance I"
+                }
+            ]
+        }
+    },
+    "131": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/200/service-based-software-architecture-project",
+        "course_name": "Service-Based Software Architecture Project",
+        "course_code": "PRO290",
+        "course_description": "Students will apply their skills in service-based software architectures by designing and developing distributed service-based systems using architectural methodologies such as SOA, REST and Microservices.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "132": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/bit381",
+        "course_name": "Integrated Business Solutions Project",
+        "course_code": "PRO381",
+        "course_description": "This course, in combination with the associated core course (BIT380) will be a hands-on introduction to emerging technologies that can help optimize business operation. Students will learn to design and implement a proof of concept using business critical tools that are considered emerging technologies. Emerging technologies in the information technology field rapidly change, therefore students will be exposed to the leading-edge technologies that enterprises are exploring and implementing.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit380",
+                    "course_code": "BIT380",
+                    "course_name": "Integrated Business Solutions"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/200/bit220",
+                    "course_code": "BIT221",
+                    "course_name": "Server Administration I: Windows Server"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "133": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330",
+        "course_name": "Persistence Project",
+        "course_code": "PRO335",
+        "course_description": "In this project-based course, students apply skills in information modeling, relational databases, and non-relational data persistence to design and implement storage solutions. Projects may be assigned to individuals or groups, and will require demonstrated competency in meeting a variety of business domain, scalability, and availability requirements.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/100/dbt130",
+                    "course_code": "DBT130",
+                    "course_name": "Databases I"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355",
+                    "course_code": "PRO355",
+                    "course_name": "Data Analytics Project I"
+                }
+            ],
+            "co": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dbt-database-technology/200/dbt230",
+                    "course_code": "DBT230",
+                    "course_name": "Databases II"
+                }
+            ]
+        }
+    },
+    "134": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro305",
+        "course_name": "System Development for Cloud Architectures Project",
+        "course_code": "PRO305",
+        "course_description": "Students will apply their skills in development for cloud-based systems by designing, developing and deploying software to cloud-based platforms and services.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "135": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro310",
+        "course_name": "Digital Portfolio Projects",
+        "course_code": "PRO310",
+        "course_description": "Students create projects to showcase a portfolio of their work for presentation to potential employers. Students reflect on work completed throughout their degree program to identify mastery of objectives and learning outcomes as well as determine the best way to showcase that new knowledge. The portfolio projects contain highlights of the student''s best work from all areas of their education and project work.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "136": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro321",
+        "course_name": "Systems, Network & Physical Security Project",
+        "course_code": "PRO321",
+        "course_description": "Students will acquire practical experience designing, deploying, and configuring IT security for a corporate environment. Students will obtain valuable hands-on experience with firewalls, ACL’s, physical security and compliance documentation. Attention will be given to current vulnerabilities and penetration testing with a focus on trends and best business industry practices.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/its-information-security/300/its320",
+                    "course_code": "ITS320",
+                    "course_name": "Systems, Network & Physical Security"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "137": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro322",
+        "course_name": "Applied AI Projects II (Machine Learning)",
+        "course_code": "PRO322",
+        "course_description": "Students will select a real-world problem, design and implement a machine learning solution using Jupyter notebooks, and evaluate the results. The course emphasizes practical experience, encouraging students to integrate machine learning models and techniques to address complex issues. By the end of the course, students will have a comprehensive project that showcases their machine learning capabilities and their ability to work with data in a Jupyter notebook environment.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat320",
+                    "course_code": "DAT320",
+                    "course_name": "Applied Machine Learning"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro382",
+                    "course_code": "PRO382",
+                    "course_name": "AI Certification Projects"
+                }
+            ],
+            "co": []
+        }
+    },
+    "138": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro330",
+        "course_name": "Networking & Telecommunications in Business Project",
+        "course_code": "PRO330",
+        "course_description": "Students utilize various learning techniques to build a solid foundation of skills involving business network design and analysis. Students work both on teams and individually to design solutions to data and telecommunication network problems. These problems include both fictitious and real world assignments providing experience with various phases of data/telecommunication network design, strengthening business analytical skills, and enhancing professional and interpersonal skills.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "139": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro340",
+        "course_name": "Development and Operations Project",
+        "course_code": "PRO300",
+        "course_description": "In this course students will acquire practical experience using the most common DevOps ideas to develop, deploy, maintain, and manage applications and infrastructure. Students will obtain valuable hands on experience using industry standard tools to monitor and automate the processes by which software and infrastructure can be integrated, tested and deployed. Students will demonstrate how DevOps can shorten development cycles, increase deployment frequency, facilitate more dependable releases and help alignment of software and infrastructure by supporting businesses objectives.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit340",
+                    "course_code": "BIT300",
+                    "course_name": "Development and Operations"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "140": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro351",
+        "course_name": "Virtualization Project",
+        "course_code": "PRO352",
+        "course_description": "Students will gain practical experience designing, deploying, and configuring virtual systems. In addition, students will gain hands on experience leveraging virtual systems to improve performance, scalability, and affordability of computing power. Students will implement various current virtualization technologies.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/bit-business-information-technology/300/bit351",
+                    "course_code": "BIT351",
+                    "course_name": "Virtual Systems"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "141": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355",
+        "course_name": "Data Analytics Project I",
+        "course_code": "PRO355",
+        "course_description": "Students will gain experience working on projects investigating how data can be used to make decisions, solve problems, and identify opportunities. Students will realize the basics for understanding computerized support of managerial-decision making. Students will study business intelligence methodologies and the concepts that relate them to decision support systems. Major issues in implementing business intelligence will be analyzed and understood.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/200/mat260",
+                    "course_code": "MAT260",
+                    "course_name": "Statistics"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/dbt330",
+                    "course_code": "PRO335",
+                    "course_name": "Persistence Project"
+                }
+            ],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro365",
+                    "course_code": "PRO365",
+                    "course_name": "Data Analytics Project II"
+                }
+            ],
+            "co": []
+        }
+    },
+    "142": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro361",
+        "course_name": "Applied AI Projects III (Data Engineering)",
+        "course_code": "PRO361",
+        "course_description": "This project-based course allows students to apply the data engineering knowledge and skills acquired from the Applied Data Engineering course. Students will design, implement, and manage a comprehensive data pipeline or workflow to address a real-world problem. The course emphasizes practical experience, encouraging students to integrate data engineering techniques to support data analytics and machine learning applications. By the end of the course, students will have a completed project that demonstrates their ability to create scalable and efficient data engineering solutions.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/dat-data-science/300/dat360",
+                    "course_code": "DAT360",
+                    "course_name": "Applied Data Engineering"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "143": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro365",
+        "course_name": "Data Analytics Project II",
+        "course_code": "PRO365",
+        "course_description": "Students will take part in advanced projects utilizing business intelligence and the role it plays in decision-making in today’s business environment. Projects will focus on the utilization of advanced decision-making methods including statistics in forecasting and managing business decisions.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro355",
+                    "course_code": "PRO355",
+                    "course_name": "Data Analytics Project I"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "144": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro382",
+        "course_name": "AI Certification Projects",
+        "course_code": "PRO382",
+        "course_description": "This course is designed to prepare students for earning industry-recognized certifications in artificial intelligence (AI). Students will engage in a series of projects and exercises aligned with the requirements of leading AI certification programs. The course will cover key concepts, tools, and techniques necessary for certification, providing hands-on experience and practical knowledge. By the end of the course, students will be well-prepared to take certification exams and demonstrate their proficiency in AI to potential employers.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro322",
+                    "course_code": "PRO322",
+                    "course_name": "Applied AI Projects II (Machine Learning)"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "145": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro385",
+        "course_name": "Game Engine Projects",
+        "course_code": "PRO385",
+        "course_description": "In this course, students develop a variety of game projects. These projects explore various technologies and themes to expand the students’ knowledge and capabilities. In addition, students will have the opportunity to develop their own personal project from concept to completion.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/gat-gaming-technology/100/copy-of-gat180",
+                    "course_code": "GAT185",
+                    "course_name": "Introduction to Game Engines"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "146": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390",
+        "course_name": "Capstone Project",
+        "course_code": "PRO390",
+        "course_description": "Students work either in teams or individually on a project that demonstrates the overall attainment of the learning objectives of a student''s academic program. The project must be approved by the instructor. Students may choose to complete a project in an interest area or career direction of their own choosing or a project can be assigned to them by the instructor. The projects provide experience unique to the end of the program and give students opportunities to perform and develop each of their skill sets in a chosen discipline.'nThese projects strengthen and integrate students'' existing skills and provide motivation for the acquisition of new skills. The project role and learning goals for each student are individualized in line with their knowledge base and growth focus. Projects may include interaction and/or collaboration with external clients and other stakeholders.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490",
+                    "course_code": "PRO490",
+                    "course_name": "Enterprise Projects I"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491",
+                    "course_code": "PRO491",
+                    "course_name": "Enterprise Projects II"
+                },
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492",
+                    "course_code": "PRO492",
+                    "course_name": "Enterprise Projects III"
+                }
+            ],
+            "co": []
+        }
+    },
+    "147": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/copy-of-pro440",
+        "course_name": "Projects in Web Security",
+        "course_code": "PRO430",
+        "course_description": "This is an advanced projects course that focuses on internet security from the web interface to the server. Students will work to create secure solutions in web applications, databases, and server implementations.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "148": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro450",
+        "course_name": "Projects in Full-Stack Development I",
+        "course_code": "PRO450",
+        "course_description": "This is an advanced web projects course designed to help students gain experience with a variety of web technologies as they solve complex problems. Students will develop complete web solutions using front-end, back-end, and database technologies with a strong focus on usability and security.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320",
+                    "course_code": "MTM320",
+                    "course_name": "Advanced Web Scripting"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "149": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro460",
+        "course_name": "Projects in Full-Stack Development II",
+        "course_code": "PRO460",
+        "course_description": "This advanced web projects course is a continuation of PRO450 Projects in Full-Stack Development I. Students will utilize the front-end, back-end, and databases to create complex applications. The primary focus of the course will be on building complete web solutions for common business challenges.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mtm-multimedia/300/mtm320",
+                    "course_code": "MTM320",
+                    "course_name": "Advanced Web Scripting"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "150": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro490",
+        "course_name": "Enterprise Projects I",
+        "course_code": "PRO490",
+        "course_description": "Students spend 20 hours per week working as part of a team to provide solutions to industry clients. Enterprise projects are designed to give students experience working on projects similar to ones they may encounter upon graduation. Placement on some projects may be competitive and may require mastery of industry competencies. Some Enterprise Project partners require participants to undergo drug testing and/or background checks, to demonstrate proficiency with specific technologies, or to meet other requirements.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390",
+                    "course_code": "PRO390",
+                    "course_name": "Capstone Project"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "151": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro491",
+        "course_name": "Enterprise Projects II",
+        "course_code": "PRO491",
+        "course_description": "Students spend 20 hours per week working as part of a team to provide solutions to industry clients. Enterprise projects are designed to give students experience working on projects similar to ones they may encounter upon graduation. Placement on some projects may be competitive and may require mastery of industry competencies. Some Enterprise Project partners require participants to undergo drug testing and/or background checks, to demonstrate proficiency with specific technologies, or to meet other requirements.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390",
+                    "course_code": "PRO390",
+                    "course_name": "Capstone Project"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "152": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/400/pro492",
+        "course_name": "Enterprise Projects III",
+        "course_code": "PRO492",
+        "course_description": "Students spend 20 hours per week working as part of a team to provide solutions to industry clients. Enterprise projects are designed to give students experience working on projects similar to ones they may encounter upon graduation. Placement on some projects may be competitive and may require mastery of industry competencies. Some Enterprise Project partners require participants to undergo drug testing and/or background checks, to demonstrate proficiency with specific technologies, or to meet other requirements.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/pro-projects/300/pro390",
+                    "course_code": "PRO390",
+                    "course_name": "Capstone Project"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "153": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/100/psc115",
+        "course_name": "Introduction to Biology",
+        "course_code": "PSC115",
+        "course_description": "This course is designed to introduce students to the fundamentals of biology including cell structure; basic chemistry as applied to photosynthesis; cellular respiration; genetics and natural selection. Students also explore the basic similarities and differences between plant and animal systems. Laboratory exercises give students a hands-on opportunity to critically examine and investigate the biological processes of cell structure, energy, heredity, reproduction and other fundamental aspects of biology.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "154": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc201",
+        "course_name": "Astronomy",
+        "course_code": "PSC201",
+        "course_description": "This course provides a basic introduction to the science of astronomy. Students gain critical-thinking skills as they assess the origins and evolution of our galaxy; understand stellar structure and life cycles; and gain an orientation to the night sky. Students also examine recent discoveries in astronomy.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "155": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc226",
+        "course_name": "Introductory Physics",
+        "course_code": "PSC226",
+        "course_description": "This course provides an introductory overview to basic physics concepts. Students examine such principles as kinematics in one and two dimensions; forces; dynamics of uniform circular motion; waves and sound; and the principle of linear superposition.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "156": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/psc-physical-and-biological-science/200/psc230",
+        "course_name": "Introduction to Chemistry",
+        "course_code": "PSC230",
+        "course_description": "This course introduces the fundamentals of chemistry utilizing a virtual laboratory environment. Students develop analytical thinking skills as they perform virtual experiments and then examine and report their findings. Topics covered include: past and present views of atomic structure, naming compounds, balancing chemical equations, the ideal gas law, acid-base chemistry and other basics of inorganic chemistry.",
+        "requisites": {
+            "pre": [
+                {
+                    "route": "/en/2024-2025/2024-2025/course-descriptions/mat-math/100/mat105",
+                    "course_code": "MAT105",
+                    "course_name": "College Algebra"
+                }
+            ],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "157": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/enterprise-software-security-methodologies",
+        "course_name": "Enterprise Software Security Methodologies",
+        "course_code": "SEN320",
+        "course_description": "Students will become familiar with modern security threats to enterprise-grade software systems. Students will research, explore, and implement the various proven countermeasures the industry utilizes to neutralize these threats.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "158": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/service-based-architecture",
+        "course_name": "Service-Based Software Architecture",
+        "course_code": "SEN300",
+        "course_description": "Students learn about and implement modern service-based software architectures such as SOA, REST and MicroServices. Students will become familiar with common data transfer formats used within service-based architectures such as JSON, XML and SOAP. Students will understand service-based security models such as HTTP Basic Authentication, API Keys, OAuth 1&2, JSON Web Tokens and SAML.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "159": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/sen-software-engineering/300/system-development-for-cloud-architectures",
+        "course_name": "System Development for Cloud Architectures",
+        "course_code": "SEN310",
+        "course_description": "Students will learn advanced software design, development practices, methodologies and technologies specific to enterprise distributed cloud architectures.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "160": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc101",
+        "course_name": "Educational Learning Theories",
+        "course_code": "SSC101",
+        "course_description": "This class will focus on the historical and practical value of prominent learning theories in higher education. Students will use this knowledge to build stronger lifelong learning strategies and habits that will foster success in the classroom and in their professional lives.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "161": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/100/ssc150",
+        "course_name": "Introductory Psychology",
+        "course_code": "SSC150",
+        "course_description": "This course surveys the major principles of psychology, including: history, human development, personality, abnormal behavior, social psychology, feelings and emotions, research methodologies, experimental psychology, psycho-physiology, learning and memory, altered states of awareness, sleep and dreams, and industrial and organizational psychology.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "162": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/200/ssc272",
+        "course_name": "United States Government",
+        "course_code": "SSC272",
+        "course_description": "This course will introduce students to the governmental system of the United State of America. Students will explore concepts related to government institutions, political processes, and political behavior. Students will analyze the workings of the three branches of the national government and the role they play in American society.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "163": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc322",
+        "course_name": "Conflict & Negotiation",
+        "course_code": "SSC322",
+        "course_description": "This course introduces students to the foundations of negotiation and negotiation strategy including planning and framing. Conflict resolution and conflict management strategies will be introduced and evaluated as well as the concepts of constructive and destructive conflict.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "164": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/ssc-social-science/300/ssc351",
+        "course_name": "Introduction to Intellectual Property",
+        "course_code": "SSC351",
+        "course_description": "This course provides an introduction of the intellectual property laws of the United States. Students will explore concepts related to copyright, patent, trademark, and trade secret law, and how those laws fit into their field of employment.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "165": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst100",
+        "course_name": "Quality Assurance I",
+        "course_code": "TST200",
+        "course_description": "Students learn about the various kinds of mentality, philosophy, and modality of software testing. While exploring testing concepts such as boundary vs. coverage, false positives/failures, and different areas of testing, students gain a broad understanding of the testing world and its crucial role in development.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    },
+    "166": {
+        "route": "/en/2024-2025/2024-2025/course-descriptions/tst/200/tst110",
+        "course_name": "Quality Assurance II",
+        "course_code": "TST270",
+        "course_description": "This course focuses on advanced topics of testing and quality assurance processes and principles. The course provides applicable use of the relationship between software development and software testing and how the two relate within the software development life cycle.",
+        "requisites": {
+            "pre": [],
+            "pre-for": [],
+            "co": []
+        }
+    }
+}
