@@ -16,11 +16,11 @@ export default function Home() {
     }
     function generateRows() {
         return courses.map(course => (
-            <tr class={course.course_code.substring(0, 3)} key={course.route}>
-                <td class="course"><Link href={`/${encodeURIComponent(course.route.split('/').pop())}`}>
+            <tr className={course.course_code.substring(0, 3)} key={course.route}>
+                <td className="course"><Link href={`/${encodeURIComponent(course.route.split('/').pop())}`}>
                     {course.course_name}
                 </Link></td>
-                <td class="code">{course.course_code}</td>
+                <td className="code">{course.course_code}</td>
             </tr>
         ))
     }
@@ -29,10 +29,10 @@ export default function Home() {
             <tr>
                 <td id="title"><h1>Courses</h1></td>
                 <td id="dropperbar">
-                    <select name="category" id="category" onChange={e => refresh_table(e.target.value)}>
-                        <option selected value="none">---</option>
+                    <select name="category" id="category" selected onChange={e => refresh_table(e.target.value)}>
+                        <option value="none">---</option>
                         {codes.map(code => (
-                            <option value={code}>{code}</option>
+                            <option value={code} key={code}>{code}</option>
                         ))}
                     </select>
                 </td>
@@ -64,12 +64,12 @@ export default function Home() {
     }
 
     return (
-        <div class="main_content">
-            <table class="course_table">
+        <div className="main_content">
+            <table className="course_table">
                 <thead>
                     {buildTHead() }
                 </thead>
-                <tbody class="course_data">
+                <tbody className="course_data">
                     {generateRows()}
                 </tbody>
             </table>
