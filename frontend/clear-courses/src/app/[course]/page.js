@@ -1,6 +1,6 @@
 "use client";
 import { useParams } from 'next/navigation';
-import coursesData from '../Data/courses.json';
+import coursesData from '../data/courses.json';
 import CourseDetail from '../Components/CourseDetail';
 
 export default function CoursePage() {
