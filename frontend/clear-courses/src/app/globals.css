@@ -12,15 +12,105 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@media (prefers-color-scheme:dark) {
+    :root {
+        --background: #0a0a0a;
+        --foreground: #e0b107;
+        --subtitle: #e0aa2b;
+        --footnote: #c29904
+    }
+}
+table {
+    width: 100%;
+    min-width: max-content
+}
+
+td {
+    text-align: center;
+    display: table-cell
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+    background: var(--background);
+    color: var(--foreground);
+    justify-content: center;
+    font-family: Arial,Helvetica,sans-serif;
+    display: flex
+}
+
+.section {
+    color: var(--subtitle);
+    font-size: 22px;
+    border-bottom: 3px solid;
+}
+
+.course_deet {
+    border-bottom: 2px solid #222
+}
+
+.topbar {
+    margin: 2%
+}
+
+.main_content {
+    justify-content: center;
+    min-width: 38%;
+    max-width: 40%
+}
+
+#title,
+#title h1 {
+    justify-content: left;
+    font-size: 32px
+}
+
+#dropperbar {
+    justify-content: right;
+    width: 70px
+}
+
+#desc {
+    color: orange
+}
+
+select {
+    background-color: var(--background)
+}
+
+option {
+    background-color: #222
+}
+
+select option:active,
+select option:focus,
+select option:hover {
+    outline: none
+}
+
+.course_table {
+    justify-content: center;
+    overflow: scroll
+}
+
+    .course_table thead td {
+        border: 2px solid #789
+    }
+
+.course {
+    width: 700px;
+    font-size: 26px
+}
+
+.course_data td {
+    text-align: center;
+    border: 2px solid #455
+}
+
+a {
+    color: var(--footnote)
+}
+
+a:hover {
+    color: #fe4;
+    text-decoration: underline
 }
