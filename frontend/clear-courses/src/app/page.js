@@ -1,6 +1,6 @@
 'use client'
 import Link from "next/link";
-import coursesData from "./public/Data/courses.json";
+import coursesData from "./data/courses.json";
 import { useState } from 'react';
 import './globals.css'
 
