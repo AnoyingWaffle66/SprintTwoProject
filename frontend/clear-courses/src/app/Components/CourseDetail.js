@@ -15,7 +15,7 @@ export default function CourseDetail({ course }) {
             const courseName = courseObj.course_name;
             const slug = courseCode.toLowerCase();
             return (
-                <li key={courseObj}>
+                <li key={courseObj.course_code}>
                     <Link href={`/${slug}`}>{courseCode} - {courseName}</Link>
                 </li>
             );
@@ -23,16 +23,16 @@ export default function CourseDetail({ course }) {
     };
 
     return (
-        <div class="main_content">
+        <div className="main_content">
             <h1 id="title">{course.course_name}</h1>
-            <h2 class="section">Description</h2>
-            <p class="course_deet"><em id="desc">{course.course_description}</em></p>
-            <h2 class="section">Pre-requisites</h2>
-            <ul class="course_deet">{renderLinks(course.requisites.pre)}</ul>
-            <h2 class="section">Pre-for</h2>
-            <ul class="course_deet">{renderLinks(course.requisites['pre-for'])}</ul>
-            <h2 class="section">Co-requisites</h2>
-            <ul class="course_deet">{renderLinks(course.requisites.co)}</ul>
+            <h2 className="section">Description</h2>
+            <p className="course_deet"><em id="desc">{course.course_description}</em></p>
+            <h2 className="section">Pre-requisites</h2>
+            <ul className="course_deet">{renderLinks(course.requisites.pre)}</ul>
+            <h2 className="section">Pre-for</h2>
+            <ul className="course_deet">{renderLinks(course.requisites['pre-for'])}</ul>
+            <h2 className="section">Co-requisites</h2>
+            <ul className="course_deet">{renderLinks(course.requisites.co)}</ul>
             <Link href="/">⇦ Back to Courses</Link>
         </div>
     );
