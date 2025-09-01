@@ -7,29 +7,61 @@ import './globals.css'
 export default function Home() {
     const courses = Object.values(coursesData);
 
-    var dump = new Set(courses.map(course => (course.course_code.substring(0, 3))));
-    var codes = [...dump];
-    var tabledata = ""
+    const [category, setCategory] = useState("none");
+    const [searchTerm, setSearchTerm] = useState("");
 
-    function check_match(input, search) {
-        return "" +input === "" + search
-    }
+    const codes = [...new Set(courses.map(course => course.course_code.substring(0, 3)))];
+
+    // Filtered courses (by dropdown + search)
+    const filteredCourses = courses.filter(course => {
+        const matchesCategory = category === "none" || course.course_code.startsWith(category);
+        const matchesSearch =
+            course.course_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            course.course_code.toLowerCase().includes(searchTerm.toLowerCase());
+        return matchesCategory && matchesSearch;
+    });
+
     function generateRows() {
-        return courses.map(course => (
+        return filteredCourses.map(course => (
             <tr className={course.course_code.substring(0, 3)} key={course.route}>
-                <td className="course"><Link href={`/${encodeURIComponent(course.route.split('/').pop())}`}>
-                    {course.course_name}
-                </Link></td>
+                <td className="course">
+                    <Link href={`/${encodeURIComponent(course.route.split('/').pop())}`}>
+                        {course.course_name}
+                    </Link>
+                </td>
                 <td className="code">{course.course_code}</td>
             </tr>
-        ))
+        ));
     }
+
     function buildTHead() {
         return (
             <tr>
-                <td id="title"><h1>Courses</h1></td>
+                <td id="title" style={{ position: "relative" }}>
+                    <h1 style={{ margin: 0, textAlign: "center" }}>Courses</h1>
+                    <input
+                        type="text"
+                        placeholder="Search..."
+                        value={searchTerm}
+                        onChange={(e) => setSearchTerm(e.target.value)}
+                        style={{
+                            position: "absolute",
+                            right: "10px",
+                            top: "50%",
+                            transform: "translateY(-50%)",
+                            width: "150px",
+                            padding: "4px 6px",
+                            fontSize: "14px"
+                        }}
+                    />
+                </td>
                 <td id="dropperbar">
-                    <select name="category" id="category" selected onChange={e => refresh_table(e.target.value)}>
+                    <select
+                        name="category"
+                        id="category"
+                        value={category}
+                        onChange={(e) => setCategory(e.target.value)}
+                    >
                         <option value="none">---</option>
                         {codes.map(code => (
                             <option value={code} key={code}>{code}</option>
@@ -37,46 +69,19 @@ export default function Home() {
                     </select>
                 </td>
             </tr>
-            )
-    }
-    async function refresh_table(term) {
-        console.log(term)
-        if (!document) return false
-        else {
-            var cTable = document.getElementsByClassName("course_data")[0]
-            if (tabledata === "") {
-                tabledata = document.getElementsByClassName("course_data")[0].innerHTML.split("</tr>")
-                console.log(tabledata)
-            }
-            cTable.innerHTML = ""
-            if (!check_match("none", term)) {
-                tabledata.map(d => {
-                    console.log(d)
-                    if (d.includes(`class="${term}"`)) {
-                        cTable.innerHTML += `${d}</tr>`
-                    }
-                })
-            }
-            else {
-                tabledata.map(d => cTable.innerHTML += `${d}</tr>`)
-            }
-        }
+        );
     }
 
     return (
         <div className="main_content">
             <table className="course_table">
                 <thead>
-                    {buildTHead() }
+                    {buildTHead()}
                 </thead>
                 <tbody className="course_data">
                     {generateRows()}
                 </tbody>
             </table>
-
         </div>
     );
-
 }
-
-
