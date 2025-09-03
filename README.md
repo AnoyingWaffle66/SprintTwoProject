@@ -1,1 +1,1 @@
-# SprintTwoProject
+# Clear Courses
